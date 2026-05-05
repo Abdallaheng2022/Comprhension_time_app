@@ -1,0 +1,5 @@
+{
+  "_comment": "Map participant name (lowercase) to language code (en/ar/tr). Add via admin dashboard or edit here.",
+  "_example1": "en",
+  "_example2": "ar"
+}

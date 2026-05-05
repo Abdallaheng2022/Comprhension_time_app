@@ -1,0 +1,1474 @@
+{
+ "language": "tr",
+ "n_records": 50,
+ "n_questions_total": 131,
+ "records": [
+  {
+   "sample_id": 1,
+   "text_id": 5224,
+   "title": "mustafa_behçet_efendi",
+   "original_text": "Mustafa Behçet, 1000 sır adlı kitabı için ölmeden önce 850 sır derleyebilmişti. Kardeşi Abdülhak Molla’nın bitirmeye çalıştığı bu eseri tamamlayarak yayına hazırlayan, Abdülhak Molla’nın oğlu Hayrullah Efendi oldu.",
+   "word_count": 28,
+   "image_gemini": "01_gemini.webp",
+   "image_qwen": "01_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Mustafa Behçet Efendinin Bin sır adlı eserini yayına hazırlayan kimdir ?",
+     "gold_answer": "Abdülhak Molla’nın oğlu Hayrullah Efendi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 2,
+   "text_id": 6231,
+   "title": "Roketsan Cirit",
+   "original_text": "22 Mayıs 2014 yılında MBDA Almanya arasında 70 milimetre lazer güdümlü füze sisteminin (CİRİT) üretimi ve entegrasyonu konusunda işbirliği anlaşması imzandı.Cirit füzesi Eurocopter Tiger'a entegre edilecektir.",
+   "word_count": 26,
+   "image_gemini": "02_gemini.webp",
+   "image_qwen": "02_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "MBDA Almanya arasında 22 Mayıs 2014 yılında imzalanan anlaşma hangi konudadır?",
+     "gold_answer": "70 milimetre lazer güdümlü füze sisteminin (CİRİT) üretimi ve entegrasyonu",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Cirit füzesi neye entegre edilecektir?",
+     "gold_answer": "Eurocopter Tiger'a",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 3,
+   "text_id": 1166,
+   "title": "Ali_bin_Abbas",
+   "original_text": "Ali bin Abbas el-Mecusi Mesudi ya da Latince Haly Abbas olarak bilinir. İranlı Müslüman fizikçi ve tıp alimidir. Kitab El-Maliki adlı tıp ve psikoloji üzerine yazdığı eseriyle ve günümüzden yaklaşık 1000 sene önce ilk kanser ameliyatını yapmasıyla bilinir.",
+   "word_count": 38,
+   "image_gemini": "03_gemini.webp",
+   "image_qwen": "03_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ali bin Abbas'ın tıp ve psikoloji üzerine yazdığı eserinin adı nedir?",
+     "gold_answer": "Kitab El-Maliki",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Ali bin Abbas , 1000 sene önce ilk kez yapılan hangi operasyon ile tanınır?",
+     "gold_answer": "kanser ameliyatı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Ali bin Abbas'ın günümüzden yaklaşık 1000 yıl önce yaptığı ameliyat hangi hastalıkla alakalıydı?",
+     "gold_answer": "kanser",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 4,
+   "text_id": 9108,
+   "title": "İbn eş-Şâtir",
+   "original_text": "10 yaşında astronomi tahsili yapmak için Kahire ve İskenderiye'ye gitti. Daha sonra memleketi Şam'a dönerek Emeviyye Cami muvakkitliğine atandı. Buradaki görevi esnasında ay ve gezegenlerin hareketleri üzerine hassas ölçümler yapmış, Batlamyus'un dünya merkezli sistemini incelemiş, Kopernik'in güneş merkezli sisteminin temellerini atmıştır.",
+   "word_count": 41,
+   "image_gemini": "04_gemini.webp",
+   "image_qwen": "04_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İbn eş-Şâtir astronomi tahsili yapmaya nereye gitmiştir?",
+     "gold_answer": "Kahire ve İskenderiye'ye",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İbn eş-Şâtir muvakkitliğine atandığı yer neresidir?",
+     "gold_answer": "Emeviyye Cami",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "İbn eş-Şâtir’in memleketi neresidir?",
+     "gold_answer": "Şam",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "İbn eş-Şâtir’in Emeviyye Cami muvakkitliği esnasında ne üzerine ölçümler yapmıştır?",
+     "gold_answer": "ay ve gezegenlerin hareketleri üzerine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "İbn eş-Şâtir’in Emeviyye Cami muvakkitliği esnasında ne üzerine inceleme yapmıştır?",
+     "gold_answer": "Batlamyus'un dünya merkezli sistemini",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "İbn eş-Şâtir’in Emeviyye Cami muvakkitliği esnasında neyin temellerini atmıştır?",
+     "gold_answer": "Kopernik'in güneş merkezli sisteminin",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 5,
+   "text_id": 7058,
+   "title": "Zekeriya el Kazvini",
+   "original_text": "Acaibu'l-Mahlukat ve Garaibu'l-Mevcudat, (Tuhaf Yaratıklar ve Acayip Varlıklar), (عجائب المخلوقات و غرائب الموجودات) isimli, Türkçe ve Farsça'ya da tercüme edilmiş olan Arapça astronomi eseri, Asar-ül Bilad ve Ahbar-ül İbad, isimli coğrafya eseri yazan Kazvini, Dünya'nın küre şeklinde olduğunu belirtmiş, hava, su, bitki, hayvan ve madenlerden detaylı olarak bahsetmiş, dağ, dere, ada, deniz ve nehirlerin oluşumu hakkında görüşler belirtmiştir.",
+   "word_count": 58,
+   "image_gemini": "05_gemini.webp",
+   "image_qwen": "05_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Acaibu'l-Mahlukat ve Garaibu'l-Mevcudat hangi dillere çevrilmiştir?",
+     "gold_answer": "Türkçe ve Farsça'ya",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 6,
+   "text_id": 6590,
+   "title": "Hüseyin Tevfik Paşa",
+   "original_text": "Tevfik Paşa'nın başka pek çok görevleri olmuş, Fransa ve ABD'de kaldığı sıralarda Fransızca ve İngilizce'yi, bu dillerde kitap yazabilecek kadar iyi öğrenmiştir. Burada matematik dersleri vermiş, yine bu sıralarda arkadaşlarıyla çıkarttığı Mebâhis-i İlmiyye adlı aylık dergiye makaleler yazmıştır. Bu dergide yayımladığı makaleleri arasında \"Mahsûsât ve Gayr-ı Mahsûsât\" isimli felsefî bir yazısı, ayrıca türev ve fonksiyonlar üzerine yazıları bulunur.",
+   "word_count": 58,
+   "image_gemini": "06_gemini.webp",
+   "image_qwen": "06_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Tevfik Paşa'nın \"Mahsûsât ve Gayr-ı Mahsûsât\" isimli yazısının yayınlandığı derginin adı nedir?",
+     "gold_answer": "Mebâhis-i İlmiyye",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 7,
+   "text_id": 1047,
+   "title": "Pardus",
+   "original_text": "25 Ocak 2013'te Debian tabanlı ilk kararlı Pardus sürümü 'Pardus 2013 Anadolu Parsı' adı ile yayınlandı. Böylece Pardus projesi kapsamında 2012 yılına kadar geliştirilmiş olan Pardus'a özgü PİSİ paket yönetim sistemi, ÇOMAR yapılandırma yöneticisi, YALI kurulum aracı, Müdür açılış sistemi, Kaptan ilk ayar sihirbazı ve diğer irili ufaklı tüm projeler terk edilerek tamamen Debian tabanına geçilmiş oldu. Pardus'un, Pardus 2013 sürümünden itibaren Kurumsal, Sunucu ve Fatih sürümü olmak üzere 3 ayrı sürümü bulunmaktadır. Kurumsal sürüm, kurum ve kuruluşların ihtiyaçları göz önüne alınarak hazırlanmıştır. Fatih sürümü ise FATİH Projesindeki akıllı tahtalarda kullanmak üzere hazırlanmıştır.",
+   "word_count": 93,
+   "image_gemini": "07_gemini.webp",
+   "image_qwen": "07_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "25 Ocak 2013'te yayımlanan Pardus sürümün adı nedir?",
+     "gold_answer": "Pardus 2013 Anadolu Parsı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "2013 yılı ve sonrasında Pardus’un kullandığı tabanın adı nedir?",
+     "gold_answer": "Debian",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Pardus 2013 sürümü sonrası bulundurduğu 3 ayrı sürümün adları nelerdir?",
+     "gold_answer": "Kurumsal, Sunucu ve Fatih",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Pardus 2013 sonrası  kurum ve kuruluşların ihtiyaçları için hazırlanan sürümünün adı nedir?",
+     "gold_answer": "Kurumsal",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Pardus 2013 sonras Fatih sürümü nerelerde kullanmak amacıyla hazırlanmıştır?",
+     "gold_answer": "FATİH Projesindeki akıllı tahtalarda",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 8,
+   "text_id": 4609,
+   "title": "Ahmet Şuayip",
+   "original_text": "Ulum-ı İktisadiye ve İçtimaiye Mecmuası'nda çıkan yazılarında devlet, ırk ve ekonomi konularında yazılar yazar. Ona göre devletlerin yapılarını belirleyen şey coğrafya ve iklimdir. Meralarda yaşayan halklar bedevi yaşam sürerler ve kalplerinde dünyayı fethetmek arzusu vardır ama merkezi devlet kurmazlar. Ormanlık arazide avcılıkla geçinen toplumlar ise merkezi devletler kurmaya eğilimlidirler ancak dünyayı fethetmeyi düşünmezler. İlk devletler insanların savunma ihtiyacını karşılamak için oluşmuştur. Toplumsal gelişmenin sonucunda bir siyasi kuvvet oluşur. Bu kuvvet değişik biçimlerde yani dini, ahlaki, fikri ya da iktisadi biçimlerde oluşabilir. Şuayip Marx'ı da iktisadi gücü tek siyasi güç olarak gördüğü için doğru bulmaz.",
+   "word_count": 94,
+   "image_gemini": "08_gemini.webp",
+   "image_qwen": "08_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ekonomik gücü tek siyasi güç olarak gören ve bu nedenle Şuayip'in doğru bulmadığı kişi kimdir?",
+     "gold_answer": "Marx",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İlk devletlerin oluşma amacı nedir?",
+     "gold_answer": "insanların savunma ihtiyacını karşılamak",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Meralarda yaşayan halkların tam tersi özelliğe sahip olanlar kimlerdir?",
+     "gold_answer": "Ormanlık arazide avcılıkla geçinen toplumlar",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "İçlerinde dünyayı fethetme isteği olup merkezi devlet kurma eğilimde olmayanlar kimlerdir?",
+     "gold_answer": "Meralarda yaşayan halklar",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Coğrafya ve iklim neyi belirler?",
+     "gold_answer": "devletlerin yapılarını",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 9,
+   "text_id": 5285,
+   "title": "Riyaziyeci Mehmet Nadir Bey",
+   "original_text": "Mezuniyetinin ardından 3 ay bir gemide mühendis olarak çalıştıktan sonra Divanhane Bahriye Meclis Başkanlığı'nda sekreter olarak görevlendirildi. Heybeliada'daki Deniz Harp Okulu matematik öğretmeni Eşref Bey'in talebi ile bu okulda öğretmen yardımcılığına atandı. Bir sure sonra Darüşşafaka’da da ders vermekle görevlendirilen Mehmet Nadir Bey, bu okulda ileride ünlü bir matematikçi olacak Salih Zeki'nin öğretmeni oldu ve ona çok emek verdi.\r\n\r\nİki sene sonra her iki okuldan da istifa eden Mehmet Nadir Bey'in hayatının bundan sonraki iki yıllık dönemine (1879-1880) ne yaptığına ilişkin kesin bilgi yoktur. Matematik eğitimi almak üzere dostu Hüseyin Avni ile Londra'ya gittiği; daha sonra birlikte Kıbrıs'ta gazete çıkardıkları ve yakalanıp hapsedildikleri; askerlikten ihraç edildikleri sanılmaktadır.\r\n\r\nHapisteyken çeviriler yaptığı düşünülen Mehmet Niyazi Bey, 1881-1882 yıllarında Victor Hugo'dan ve Shakespeare'den çeviriler yayımladı. Hamlet'i Türkçeye çeviren ilk kişi oldu.",
+   "word_count": 128,
+   "image_gemini": "09_gemini.webp",
+   "image_qwen": "09_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Riyaziyeci Mehmet Nadir Bey 1881 - 1882 yılları arasında hangi yazarlardan çeviri yapmıştır ?",
+     "gold_answer": "Shakespeare",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Riyaziyeci Mehmet Nadir Bey Londraya kimle birlikte gitmiştir?",
+     "gold_answer": "Hüseyin Avni",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Mehmet Nadir Bey Heybeliada'daki Deniz Harp Okulu öğretmen yardımcılığına kimin isteği üzerine atanmıştır ?",
+     "gold_answer": "Eşref Bey",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Riyaziyeci Mehmet Nadir Bey'in Divanhane Bahriye Meclis Başkanlığı'nda ki görevi nedir ?",
+     "gold_answer": "sekreter",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 10,
+   "text_id": 7441,
+   "title": "İbn-i Heysem",
+   "original_text": "== Göz ışın kuramı ve İbn-i Heysem ==\r\n\r\nNesnelerden gelen ışık ve renk etkisiyle görme oluşur. İbn-i Heysem, ışığın öncelikle gözden çıktığını savunan Gözışın Kuramı'na karşı çıkmış, nesneden ışığın geldiğini vurgulamıştır. Akıl yürüterek şu yargıya varmıştır: \"Gözışın Kuramı'na göre gözden ışık çıkmakta, nesneye ulaşabilmesi için saydam ortamdan geçerek görme eylemi gerçekleşmektedir. Oysa bütün ihtimaller dikkate alındığında, gözden ışığın çıkmasıyla değil, göz ışınlarının bakılan nesneye gidip ondan geri gelmesiyle görme gerçekleşir.\" Bunu da şöyle açıklamıştır; parlak bir nesneye ya da ışığa uzun süre bakarsa göz, acı duymaktadır. Eğer uzun süre dışarıdan bir etki alarak acıması doğalsa, göz dış bir etkinin görme sürecindeki alıcısı durumundadır. Sonuçta göz ışık kaynağı olamaz, zira ışık gözden çıksa acı vermezdi.",
+   "word_count": 114,
+   "image_gemini": "10_gemini.webp",
+   "image_qwen": "10_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İbn-i Heysem gözün ışıkla ilgili nasıl bir aktivasyon sonucunda acı duyacağını söylemiştir?",
+     "gold_answer": "parlak bir nesneye ya da ışığa uzun süre bakarsa",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İbn-i Heysem'in karşı çıktığı, ışığın öncelikle gözden çıktığını savunan kuramın adı nedir?",
+     "gold_answer": "Gözışın Kuramı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 11,
+   "text_id": 6919,
+   "title": "Arif Müfid Mansel",
+   "original_text": "Türk Tarihinin Ana Hatları kitabının bölümleri üzerinde çalışmak, Arif Müfid'in de tarih çalışmalarına olan ilgisini perçinlemiş; ömrü boyunca, arkeolojinin yanı sıra tarih alanında da bir kısmı ders kitabı olarak da okutulacak yapıtlar üretmesini sağlamıştır.",
+   "word_count": 34,
+   "image_gemini": "11_gemini.webp",
+   "image_qwen": "11_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Arif Müfid Mansel arkeolojinin yanınıda hangi alanda yapıtlar üretmiştir?",
+     "gold_answer": "tarih alanında",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 12,
+   "text_id": 3221,
+   "title": "el-biruni",
+   "original_text": "Bu  yüzyılın  duraklama  başlangıcını  da  içerdiğine  ilişkin  görüş,  talihsiz  olduğu  kadar  tarihi  olgularla  çelişen  ve  Arap-İslam  bilimleri  tarihi  konusunda  bir  zamanlar  tam  bir  bilgisizlik  içerisinde  ortaya  atılan  bir  görüştür.  Halbuki  durum  bunun  tam  tersidir.",
+   "word_count": 34,
+   "image_gemini": "12_gemini.webp",
+   "image_qwen": "12_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Bahsedilen görüş ne zaman ortaya atılmıştır?",
+     "gold_answer": "Arap-İslam  bilimleri  tarihi  konusunda  bir  zamanlar  tam  bir  bilgisizlik  içerisinde",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 13,
+   "text_id": 1043,
+   "title": "Pardus",
+   "original_text": "19 Haziran 2012 tarihinde ULAKBİM Başkanı Dr. Ahmet Kaplan ve Pardus Proje Yöneticisi Abdullah Erol projenin hedeflerini açıkladıkları bir basın toplantısı düzenlediler. Abdullah Erol'un proje yöneticisi olduğu bu toplantı ile kamuoyu tarafından öğrenildi. Toplantıda özetle FATİH Projesindeki akıllı tahtalarda Pardus kullanılacağı, yeni bir kurumsal sürüm hazırlandığı, sunucu ve mobil sürümler yapılacağı ve özel sektörle işbirliklerine gidileceği belirtildi.",
+   "word_count": 57,
+   "image_gemini": "13_gemini.webp",
+   "image_qwen": "13_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "19 Haziran 2012’de Pardus projesinin hedefleri için yapılan açıklamayı kimler düzenlemişlerdir?",
+     "gold_answer": "ULAKBİM Başkanı Dr. Ahmet Kaplan ve Pardus Proje Yöneticisi Abdullah Erol",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "19 Haziran 2012’de Pardus projesinin yöneticisi olarak hangi isim paylaşılmıştır?",
+     "gold_answer": "Abdullah Erol",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "19 Haziran 2012’de Pardus projesinin toplantısında Pardus’un hangi projedeki akıllı tahtalarda kulanılacağı açıklanmıştır?",
+     "gold_answer": "FATİH",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "19 Haziran 2012’de Pardus projesinin toplantısında hangi dağıtımın FATİH Projesindeki akıllı tahtalarda kullanılacağı açıklanmıştır?",
+     "gold_answer": "Pardus",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 14,
+   "text_id": 3232,
+   "title": "el-biruni",
+   "original_text": "Bizim  tahminimize  göre,  ilk  kez  köklü  bir  şekilde  tashih  edilen  koordinatlara  dayanarak  çizilmiş  haritalar  daha  7./13.  yüzyılın  ikinci  yarısında  ortaya  çıkmıştır.  Böyle  bir  tahmine  götüren  bazı  olgular  bulunmaktadır.  Bunlardan  birisi,  Naṣīreddīn  eṭ-Ṭūsī’nin  et-Teẕkire  fī  el-Heyʾeisimli  eserinin  günümüzde  kayıp  olan  bir  el  yazması,  muhtemelen  müellif  nüshası,  bu  tarz  bir  dünya  haritası  içermekteydi.",
+   "word_count": 51,
+   "image_gemini": "14_gemini.webp",
+   "image_qwen": "14_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İlk  kez  köklü  bir  şekilde  tashih  edilen  koordinatlara  dayanarak  çizilmiş  haritalar ne zaman çizilmiştir?",
+     "gold_answer": "7./13.  yüzyılın  ikinci  yarısında",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 15,
+   "text_id": 8768,
+   "title": "Kaşgarlı Mahmud",
+   "original_text": "Divânu Lügati't-Türk isimli, dünyaca bilinen eserin yazarıdır. Eserini 1072 yılında Bağdatta yazmaya başladı. 12 Şubat 1074 tarihinde tamamladı. Eserin tamamlanmasından sonraki iki yıl içerisinde dört defa baştan sona gözden geçirerek 1076da son şeklini verdi. 1077 Ocağında bitirilmiştir. Eserini Abbasi Halifesi Muktedî-Biemrillahın oğlu Ebül-Kasım Abdullaha sunmuştur. Kitabın tek yazması olan nüsha bugün İstanbulda Millet Kütüphanesi'nde muhafaza edilmektedir.  Kaşgarlı Mahmudun, Kitabu Cevahirü'n Nahv Fi Lugati't Türk adlı bir eser daha kaleme aldığı biliniyor. Türk dilinin ilk gramer kitabının nerede ve nasıl kaybolduğu belirlenememiştir. Bu eser, günümüze ulaşmamıştır.",
+   "word_count": 85,
+   "image_gemini": "15_gemini.webp",
+   "image_qwen": "15_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Kaşgarlı Mahmud Divânu Lügati't-Türk eserini kaç yılında yazmaya başladı?",
+     "gold_answer": "1072",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Kaşgarlı Mahmud Divânu Lügati't-Türk eserini ne zaman tamamladı?",
+     "gold_answer": "12 Şubat 1074",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Kaşgarlı Mahmud Divânu Lügati't-Türk eserini nerede yazmaya başladı?",
+     "gold_answer": "Bağdat",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Kaşgarlı Mahmud Divânu Lügati't-Türk eserini kime sunmuştur?",
+     "gold_answer": "Ebül-Kasım Abdullah",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Kaşgarlı Mahmud'un Divânu Lügati't-Türk'ü bugün nerede muhafaza edilmekte?",
+     "gold_answer": "İstanbulda Millet Kütüphanesi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 16,
+   "text_id": 5429,
+   "title": "Ebu Hasan Behmenyar",
+   "original_text": "Ebu'l-Hasan Behmenyar İbn Sina'dan sonra otuz yıldan daha az yaşamıştır. Doğu peripatetizminin XI yüzyılın ortalarına ait aşaması doğrudan onun adı ile bağlıdır. İbn-i Sina geleneklerini koruma filozofun üzerine ciddi ve sorumlu görevler koyuyordu. O, var - kuvvetini esirgemeden Aristotelesçi felsefenin ileriye doğru gelişimini sağlamalı idi. İbn-i Sina bir zamanlar belki de bu umutla sevimli öğrencisi Behmenyar hakkında yazmıştı: \"Onun ahir gelip benim yerimde olmasına bir şey kalmadı.\"",
+   "word_count": 67,
+   "image_gemini": "16_gemini.webp",
+   "image_qwen": "16_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İbn-i Sina Behmenyar hakkında ne yazmıştır",
+     "gold_answer": "Onun ahir gelip benim yerimde olmasına bir şey kalmadı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 17,
+   "text_id": 2993,
+   "title": "7./13. Yüzyıl",
+   "original_text": "Bu  yüzyıl  için  karakteristik  olan,  öncüler  tarafından  kazanılmış  başarıların  geliştirilmesi  ve  mantıksal  olarak  sistemleştirilmesi  gayretinin  en  veciz  örneklerinden  birisini  Naṣīreddīn  et-Tūsī,  trigonometriyi  ilk  defa  bağımsız  bir  disiplin  halinde  sunan  Kitāb  eş-Şekl  el-Kattā isimli  eseriyle  vermektedir.  Bu  büyük  hizmet,  19.  yüzyılın  sonlarına  doğru  gerçek  durumun  A.  von  Braunmühl  tarafından  ortaya  konulmasına  dek,  uzun  yıllar  boyunca  J.  Regiomontus’a  atfedilmiştir  (bkz.  Katalog  III,  135  vd.).  Küresel  trigonometrinin  temel  unsuru  olan  ve  Avrupa’da  ilk  kez  François  Viète’de  (1540-1603)  ortaya  çıkan  “polar  üçgen”  veya  “supplementer  üçgen”  de  Naṣīreddīn’e  dayanmaktadır.  Gerçi  bu,  daha  önceleri  Ebū  Naṣr  b.  ʿIrāḳ  tarafından  bulunmuştu  ama  ilk  kez  Naṣīreddīn  aṭ-Ṭūsī  tarafından  açık  bir  şekilde  tasvir  edilmiştir.",
+   "word_count": 105,
+   "image_gemini": "17_gemini.webp",
+   "image_qwen": "17_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Naṣīreddīn  et-Tūsī'nin trigonometri konulu eserinin adı nedir?",
+     "gold_answer": "Kitāb  eş-Şekl  el-Kattā",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Naṣīreddīn  et-Tūsī'nin trigonometri konulu çalışmaları uzun süre boyunca kime atfedilmiştir?",
+     "gold_answer": "J.  Regiomontus’a",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Naṣīreddīn  et-Tūsī'nin eseri hakkındaki gerçek kim tarafından ortaya konulmuştur?",
+     "gold_answer": "A.  von  Braunmühl",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 18,
+   "text_id": 1708,
+   "title": "Homeros",
+   "original_text": "M.Ö. 8. yüzyılda İzmir yöresinde veya Sakız adasında yaşadığı sanılan Homeros, Yunan duygu vedüşüncesinin ilk ürünleri olan İlyada ve Odysseia adlı destanların derleyicisidir. Troya savaşınailişkin söylenceleri toplayan İlyada’da eski Yunanlıların gelenek ve görenekleri, dinî ve felsefîinançları ve Çanakkale yöresinin tarihî coğrafyası hakkında önemli bilgiler vardır. Konusu, kuruluşuve anlatım yöntemleri bakımından İlyada’dan farklı olan Odysseia’da ise Troya’nın yıkılışındansonra, yurdu İthake’ye dönmek üzere yola çıkan Akha önderlerinden Odysseus’un on yıl sürenyolculuğu sırasında başından geçen olaylar anlatılır. Bu destanda da aynı türden bilgilere rastlamakmümkündür.MÖ. 4. yüzyılda Atina’da yazıya aktarılan Homeros destanlarındaki dinî anlayış Atinalılar tarafındanaynen benimsenmiş ve İlyada ve Odysseia Yunan eğitiminin temeline yerleştirilmiştir. BunlarınYunan toplumundaki işlevi, M.Ö. 4. yüzyılda Platon’un Devlet’inde eleştirilinceye değin hiçsorgulanmamıştır.",
+   "word_count": 112,
+   "image_gemini": "18_gemini.webp",
+   "image_qwen": "18_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Homeros'un derleyicisi olduğu destanın adı nedir?",
+     "gold_answer": "İlyada ve Odysseia",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 19,
+   "text_id": 5428,
+   "title": "Ebu Hasan Behmenyar",
+   "original_text": "Ebu'l-Hasan Behmenyar Merzban oğlu büyük Azerbaycan filozofu, Doğu peripatetizminin görkemli temsilcilerindendir. Azerbaycan Milli Bilimler Akademisi muhabir üyesi Zakir Memmedov araştırmaları sonucunda Azerbaycan'da Doğu peripatetizminin ilk büyük temsilcisi olan Behmenyarın X yüzyılın sonlarında doğmuş olması sonucuna gelmiştir. Araştırmacı bu tarihi 993 yılı gibi göstermiştir.\r\n\r\nOrtaçağ yazarları Behmenyarın \"Azerbaycan ülkesinden\" (\"bin bilad Azerbaycan\"), ya da \"Azerbaycanlı\" (\"el-Azerbaycan'i\") olduğunu yazmışlardır. İlk kaynaklarda o, ateşperest (mecusi) sayılır.\r\n\r\nBazı ortaçağ yazarları ise, onun İslam'ı sonradan kabul ettiğini söylüyorlar.\r\n\r\nBehmenyar parlak yeteneği ve çalışkanlığı ile İbn-i Sina'nın derin ilgisini çekmiştir. Öğretmen daha sonra kendi öğrencisi hakkında iftiharlar yazıyordu: \"O bana oğuldan artık isteklidir. Ben ona talim-terbiyye vermiş ve bu seviyeye ulaşılmıştır\".\r\n\r\nBehmenyarın ölüm tarihi farklı yazarlar tarafından bazen 1038-ci, kah 1065 yılında, kah 1066-cı, kah 1067 - yılları gibi gösteriliyor. Azerbaycan Milli Bilimler Akademisi muhabir üyesi Zakir Memmedov ise ilk kaynaklara göre filozofun 1066 yılının ortalarında vefat ettiğini belirlemiştir.",
+   "word_count": 143,
+   "image_gemini": "19_gemini.webp",
+   "image_qwen": "19_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ebu Hasan Behmenyar hangi akımın temsilcilerindendir",
+     "gold_answer": "Doğu peripatetizminin",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 20,
+   "text_id": 3465,
+   "title": "Bîrûnî",
+   "original_text": "O dönemde Büveyhîler'in idaresinde bulunan Rey'de hükümdar Fahrüddevle'nin emriyle Ebu Mahmud el-Hucendî tarafından büyük bir sekstant yapılmış ve güneşin o boylama girişlerini gözetlemekte kullanılmıştı. Bîrûnî, adını hükümdardan alan Fahri Sekstantı'nı tarif etmiş ve bizzat Hucendî'den elde ettiği bilgilere dayanarak yapılan rasatları Hikâyetü'l-âleti'l-müsemmât bi's-südsi'l-Fahrî adlı risalesinde ayrıntılarıyla kaydetmiştir. Bîrûnî Kâs'ı 995'te terkettiğine ve Hucendî 1000 yılında öldüğüne göre ikisinin Rey'de görüşmeleri herhalde şehri terkediş tarihinden fazla uzak değildir. Onun 997 yılında Kâs'a geri döndüğü kesindir. Nitekim Bîrûnî, 24 Mayıs 997 tarihinde daha önce kararlaştırılmış bir randevu ile burada büyük İslam matematikçisi ve astronomu Ebü'l-Vefâ el-Büzcâni ile buluşmuş ve ikisi birlikte ay tutulmasını gözlemlemişlerdir. Bu arada Gilân şehrine de gitmiş olma ihtimali mevcuttur. Zira Kitâbü Makâlîdi 'ilmi'l-hey'e adlı eserini bu şehrin hükümdar ya da valisi olan Merzûbân b. Rüstem'e ithaf ettiği bilinmektedir. Ayrıca Bîrûnî 1000 yılında bitirdiği el-Âşârü'1-bâkıye adlı eserinde Gilân ispehbedinin huzurunda bulunduğundan bahsetmektedir.",
+   "word_count": 143,
+   "image_gemini": "20_gemini.webp",
+   "image_qwen": "20_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Bîrûnî'nin Rey'in hükümdarı Fahrüddevle adına yapılan Fahrî Sekstantı ile yaptığı rasatları kaydettiği eseri nedir?",
+     "gold_answer": "Hikâyetü'l-âleti'l-müsemmât bi's-südsi'l-Fahrî",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Bîrûnî'nin 997 yılında ay tutulmasını birlikte gözlediği büyük İslam matematikçisi ve astronom kimdir?",
+     "gold_answer": "Ebü'l-Vefâ el-Büzcâni",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Bîrûnî'nin Gilân şehri hükümdarı Merzûbân b. Rüstem'e ithaf ettiği eseri hangisidir?",
+     "gold_answer": "Kitâbü Makâlîdi 'ilmi'l-hey'e",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 21,
+   "text_id": 5999,
+   "title": "El-Bircendi",
+   "original_text": "Kozmosun yapısını araştırırken, el-Birjandi Dünya'nın dönmesi hakkında Ali Kuşçu'nun yazdığı araştırmaları tartışmaya devam etti. Dünya hareketl, olsaydı ne olabileceği hakkında yaptığı analizde, o \"dairesel Eylemsizlik\" Galileo Galilei kavramına benzer bir hipotez geliştirmiştir.",
+   "word_count": 32,
+   "image_gemini": "21_gemini.webp",
+   "image_qwen": "21_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "El-Bircendi Ali Kuşçu'nun hangi alan üzerine yazdığı araştırmaları tartışmaya devam etmiştir?",
+     "gold_answer": "Dünya'nın dönmesi hakkında",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "El-Bircendi'nin Dünya'nın hareketli olup olmaması ile ilgili geliştirdiği hipozetin adı nedir?",
+     "gold_answer": "dairesel Eylemsizlik",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 22,
+   "text_id": 5561,
+   "title": "Ahmed bin Musa",
+   "original_text": "Ahmed bin Musa, kardeşleriyle birlikte Halife Memun tarafından, daha önce Sabit bin Kurra’nın, dünyanın çevresini doğru ölçüp ölçmediğini kontrol etmek için görevlendirilir. Üç kardeş, Sincan’da ve Kûfe’de yaptıkları ölçümler ve hesaplar sonunda, Sabit bin Kurra’nın bulduğu rakamı bulurlar.",
+   "word_count": 38,
+   "image_gemini": "22_gemini.webp",
+   "image_qwen": "22_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Halife Memun tarafından Ahmed bin Musa ve kardeşleri ne için görevlendirilmiştir ?",
+     "gold_answer": "dünyanın çevresini doğru ölçüp ölçmediğini kontrol etmek için görevlendirilir",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 23,
+   "text_id": 6652,
+   "title": "Salih Zeki",
+   "original_text": "1912’de Maarif Nezareti müsteşarlığına getirilen Salih Zeki Bey, Darülfünun Konferansları adlı yaptının birinci ve ikinci cildini yayımladı. Bu konferanslarda Türk matematikçilerine yabancı olan \"Öklit dışı Geometriler\" ile \"Sanal Nicelikler Üzerine Kurulmuş Çeşitli Alanlar\" konularını ayrıntılı biçimde tanıttı. \r\n. Aynı yıl Fransız mataematikçi ve felsefeci Jules-Henri Poincare'in bilim felsefesi yaptılarını Türkçeye kazandırdı.",
+   "word_count": 51,
+   "image_gemini": "23_gemini.webp",
+   "image_qwen": "23_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Salih Zeki hangi yazarın yapıtlarını Türkçeye çevirmiştir?",
+     "gold_answer": "Jules-Henri Poincare'in",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Salih Zeki Darülfünun Konferansları adlı yapıtında hangi konuları anlatmıştır?",
+     "gold_answer": "Sanal Nicelikler Üzerine Kurulmuş Çeşitli Alanlar",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Salih Zeki Darülfünun Konferansları adlı eserinin hangi ciltlerini yayımlamıştır?",
+     "gold_answer": "birinci ve ikinci cildini",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 24,
+   "text_id": 6738,
+   "title": "Süleyman Sadeddin Efendi",
+   "original_text": "Tuhfei Hattatin, Devhatül Meşayih, Mecelletün Nisab, Istılahatül Şiriyye, Şerhi Divanı Ali, Mektubatı kutsiye, Süruruttalibin, Şerhi ibarat, Risalei tarikatı nakşibendiye, Risalei Melamiye, Meşayihnamei İslam, Hülasatül Hediye, Durubı Emsal gibi eserleri vardır. Müderris babasından ders almış, hayatında resmi görev kabul etmeden yaşamıştır.",
+   "word_count": 40,
+   "image_gemini": "24_gemini.webp",
+   "image_qwen": "24_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Süleyman Sadeddin Efendi'nin babasının mesleği nedir?",
+     "gold_answer": "Müderris",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 25,
+   "text_id": 3332,
+   "title": "Câbir bin Hayyân",
+   "original_text": "Takribi 1 kilograma denk gelen ratıl ağırlık biriminden, 6480 kat daha küçük ağırlıkları ölçebilen bir hassas kantar geliştirdi. Oksitlenmenin olduğu belirli durumlarda metallerin ağırlığının azaldığını ortaya koydu. Onun çalışmaları arasında Kimyasal Özellikler Üzerine Büyük Kitap, Ağırlık ve Ölçü Birimleri, Kimyasal Bileşikler ve Boyalar gibi eserler yer almaktadır. Bu eserlerde su banyosunun ve kimyasal fırının kullanımı açıklanmakta, cıva oksit ve sülfür bileşikleri gibi önemli kimyasal maddelerden bahsedilmektedir.",
+   "word_count": 66,
+   "image_gemini": "25_gemini.webp",
+   "image_qwen": "25_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Câbir bin Hayyân'ın keşfettiği hassas kantar 1 kiligromdan kaç kat daha küçük ağırlıkları ölçebiliyordu?",
+     "gold_answer": "6480",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Câbir bin Hayyân'ın çalışmaları arasında hangi eserler yer almaktadır?",
+     "gold_answer": "Kimyasal Özellikler Üzerine Büyük Kitap, Ağırlık ve Ölçü Birimleri, Kimyasal Bileşikler ve Boyalar",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Câbir bin Hayyân'ın eserlerinde nelerin kullanımı açıklanmaktadır?",
+     "gold_answer": "cıva oksit ve sülfür bileşikleri",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Câbir bin Hayyân'ın eserlerinde hangi önemli kimyasal maddelerden bahsedilmektedir?",
+     "gold_answer": "cıva oksit ve sülfür bileşikleri",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 26,
+   "text_id": 5581,
+   "title": "SAGUAR X5",
+   "original_text": "Formula G 2005 in ardından araçta ciddi iyileştirmeler planlayan ekip SAGUARX5 i tasarladı ve SAGUAR X4 aracının şasisini kullanarak SAGUAR X5 i üretti SAGUAR X5 modeli optimal hız kontrolü, aracın tüm bilgilerini her an pit bilgisayarına yollayan telemetri sistemi ve rüzgara karşı daha kararlı davranış sergileyen yeni aerodinamik yapısı ile X4 modelinden çok daha iyi olduğunu ilk yarışında iki kupa alarak gösterdi.",
+   "word_count": 62,
+   "image_gemini": "26_gemini.webp",
+   "image_qwen": "26_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "SAGUARX5, SAGUAR X4 aracının hangi parçasını kullanarak üretildi?",
+     "gold_answer": "şasisini",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "SAGUAR X4 yarıştığı ilk yarışta hangi ödülleri almıştır?",
+     "gold_answer": "iki kupa",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "SAGUAR X5 hangi aracın bir parçası kullanılarak üretildi?",
+     "gold_answer": "SAGUAR X4",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 27,
+   "text_id": 6620,
+   "title": "Salih Zeki",
+   "original_text": "1864 yılında İstanbul’da yoksul bir ailenin oğlu olarak dünyaya geldi. Babası Boyabatlı Hasan Ağa, annesi Saniye Hanımdır. Dört yaşında iken annesini, altı yaşındayken babasını kaybetti. Bakımını üstlenen büyükannesi onu önce mahalle mektebine göndermiş, ancak yaramazlığından ötürü öğretmeninin isteğiyle okuldan alınıp bir esnafın yanında çıraklığa başlamıştı. 1874 yılında, on yaşındayken yetimlerin okuduğu Darüşşafaka’ya kaydoldu. Bu okulda Mehmet Nadir Bey'den matematik dersi aldı. Mehmet Nadir Bey, onun ileride iyi bir matematikçi olacağını anlayarak kendisiyle özel olarak ilgilendi ve o mezun olana kadar Darüşşafaka'dan ayrılmadı",
+   "word_count": 82,
+   "image_gemini": "27_gemini.webp",
+   "image_qwen": "27_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Salih Zeki Darüşşafaka'dayken matematik öğretmeninin adı neydi?",
+     "gold_answer": "Mehmet Nadir Bey",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Salih Zeki kaç yaşındayken Darüşşafaka'ya kaydoldu?",
+     "gold_answer": "on yaşındayken",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Salih Zeki ilk olarak hangi okula gitmiştir?",
+     "gold_answer": "mahalle mektebine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Salih Zeki annesini kaybettiğinde kaç yaşındaydı?",
+     "gold_answer": "Dört yaşında",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Salih Zeki nerede dünyaya geldi?",
+     "gold_answer": "İstanbul’da",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 28,
+   "text_id": 5874,
+   "title": "Ebu'l Vefa el-Buzcani",
+   "original_text": "Ebu'l Vefa, yıldızların eğimlerininin kesin ve doğru bir şekilde ölçülebilmesi için bir duvar oktantı geliştirdi. Bundan başka trigonometri çizelgelerinde hesaplamalar yapmak için gelişmiş metotlar üretti ve küresel trigonometrideki bazı problemlerin çözümü için yeni yöntemler keşfetti. Astronomik gözlemler için sinüs (ceyb) ve tanjant (zıl) değerlerini gösteren çizelgeleri on beşer dakikalık açı aralıklarıyla hesapladı. Ünlü matematikçi El-Mervezi'nin de buna benzer çizelgeleri olduğu bilinse de onun çizelgeleri tanjant ve kotanjantı yayın fonksiyonu olarak vermediği gibi, Ebu'l Vefa'nın çizelgeleri kadar sağlıklı değildir.",
+   "word_count": 78,
+   "image_gemini": "28_gemini.webp",
+   "image_qwen": "28_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ebu'l Vefa el-Buzcani'nin astronomik gözlemler için ürettiği çizelgelerin aralıkları nelerdir?",
+     "gold_answer": "on beşer dakikalık açı aralıkları",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Ebu'l Vefa el-Buzcani'nin duvar oktantını geliştirme sebebi nedir?",
+     "gold_answer": "yıldızların eğimlerininin kesin ve doğru bir şekilde ölçülebilmesi için",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Ebu'l Vefa, yıldızların eğimlerininin kesin ve doğru bir şekilde ölçülebilmesi için bir ne geliştirdi?",
+     "gold_answer": "duvar oktantı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Ebu'l Vefa, astronomik gözlemler için sinüs (ceyb) ve tanjant (zıl) değerlerini gösteren çizelgeleri kaç dakikalık açı aralıklarıyla hesapladı?",
+     "gold_answer": "on beşer",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 29,
+   "text_id": 5239,
+   "title": "Reşîdüddîn Fazlullah-ı Hemedânî",
+   "original_text": "Reşidüddin Hamedani, Hamedan'da bir Yahudi aileden 1247 yılında doğmuştur.. Reşidüddin Fazlullah'ın büyükbabası bir nedim (saray mensubu) olarak İlhanlı İmparatorluğu'nun kurucusu Hülagû Han'a hizmet etmiştir. Babası ise saray eczacısıdır. Bir eczacı oğlu olan Reşidüddin Fazlullah, hekimlik öğrenimini yapar ve bir eğitilmiş hekim olarak Hülagû Han'nın oğlu Abaka Han'a hizmet vermeye başlar. Otuz yaşında iken İslam dinine geçmiştir. Reşidüddin Fazlullah'ın siyasi itibarı çabuk yükselir, Kazvin yakınındaki Sultaniye'de İlhanlı Büyük Vezir (Sadr-ı Azam, Sadrazam) sarayında görev verilir. Reşidüddin bir vezir ve hekim olarak İlhanlı hanları Mahmud Gazan ve Muhammed Hüdabende'ye (Olcaytu) hizmet etmiştir.",
+   "word_count": 90,
+   "image_gemini": "29_gemini.webp",
+   "image_qwen": "29_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Reşîdüddîn Fazlullah-ı Hemedânî kaç yaşında iken İslam dinini seçmiştir?",
+     "gold_answer": "Otuz yaşında iken İslam dinine geçmiştir.",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 30,
+   "text_id": 4411,
+   "title": "Ömer Hayyam",
+   "original_text": "Gıyaseddin Eb'ul Feth Ömer İbni İbrahim el-Hayyam veya Ömer Hayyam İranlı şâir, filozof, matematikçi ve astronom. Hayyam, Nişabur doğumludur. Yaşadığı dönemin ünlü veziri Nizamül-Mülk ve Hasan Sabbah ile aynı medresede zamanın ünlü alimi Muvaffakeddin Abdüllatif ibn el Lübad'dan eğitim görmüş ve hayatı boyunca her ikisi ile de ilişkisini kesmemiştir. Bazı kaynaklar; Hasan Sabbah'ın Rey kentinden olduğu Nizamül-Mülk'ün de yaşça Ömer Hayyam ve Hasan Sabbah'tan büyük olduğunu ve böylece aynı medresede eğitim görmediklerini belirtmektedir. Yine de Ömer Hayyam, Hasan Sabbah ve Nizamül-Mülk'ün ilişki içinde olduklarını inkar etmemektedir. (Kaynak: Semerkant-Amin Maalouf Amin Maalouf'un bu kitabında Hasan Sabbah ve Nizamül-Mülk ile Ömer Hayyam'ın ilişkisini ve hikâyelerini kurgulamış olabileceği de düşünülmelidir. Hayyam'ın kendi dilinden yazılı böyle bir açıklaması yoktur. Ömer Hayyam, birçok bilim insanınca Bâtınî ve Mu'tezile anlayışlarına dâhil görülür. Evreni anlamak için, içinde yetiştiği İslam kültüründeki hâkim anlayıştan ayrılmış, kendi içinde yaptığı akıl yürütmeleri eşine az rastlanır bir edebi başarı ile dörtlükler halinde dışa aktarmıştır.",
+   "word_count": 152,
+   "image_gemini": "30_gemini.webp",
+   "image_qwen": "30_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ömer Hayyam nerede doğmuştur?",
+     "gold_answer": "Nişabur",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Ömer Hayyam'ın yaşadığı dönemin ünlü veziri kimdir?",
+     "gold_answer": "Nizamül-Mülk",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Ömer Hayyam'ın aynı mederese eğitim gördüğü isimler kimlerdir?",
+     "gold_answer": "Nizamül-Mülk ve Hasan Sabbah",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Ömer Hayyam medresede kimden eğitim görmüştür?",
+     "gold_answer": "Muvaffakeddin Abdüllatif ibn el Lübad'dan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Nizamül-Mülk'ün de yaşça büyük olduğu kişiler kimlerdir?",
+     "gold_answer": "Ömer Hayyam ve Hasan Sabbah'tan büyük",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "Ömer Hayyam bilim insanlarınca hangi anlayışlara dahil edilmiştir?",
+     "gold_answer": "Bâtınî ve Mu'tezile",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "Ömer Hayyam neden içinde yetiştiği İslam kültüründeki hâkim anlayıştan ayrılmıştır?",
+     "gold_answer": "Evreni anlamak için",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 31,
+   "text_id": 2551,
+   "title": "Turkcell",
+   "original_text": "9 Ocak 2007’de Turkcell Genel Müdürü olarak atanan Süreyya Ciliv, 31 Ocak 2015 tarihinde görevinden ayrıldı. 26 Mart 2015 tarihinde yerine Kaan Terzioğlu'nun getirildiği açıklandı.",
+   "word_count": 25,
+   "image_gemini": "31_gemini.webp",
+   "image_qwen": "31_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Kaan Terzioğlu Turkcell Genel Müdürü görevine ne zaman başlamıştır?",
+     "gold_answer": "26 Mart 2015",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Turkcell Genel Müdürü görevine Süreyya Ciliv sonrasında kim atanmıştır?",
+     "gold_answer": "Kaan Terzioğlu",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Süreyya Ciliv hangi tarihte Turkcell Genel Müdürü görevinden ayrılmıştır?",
+     "gold_answer": "31 Ocak 2015",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Süreyya Ciliv hangi tarihte Turkcell Genel Müdürü olarak atanmıştır?",
+     "gold_answer": "9 Ocak 2007",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 32,
+   "text_id": 8704,
+   "title": "Cahit Arf",
+   "original_text": "Cahit Arf (d. 11 Ekim 1910, Selanik - ö. 26 Aralık 1997, İstanbul), Türk matematikçi ve bilim insanı. TÜBİTAK Bilim Kolu eski başkanı.",
+   "word_count": 23,
+   "image_gemini": "32_gemini.webp",
+   "image_qwen": "32_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Cahit Arf ne zaman doğmuştur?",
+     "gold_answer": "11 Ekim 1910",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Cahit Arf bir dönem TÜBİTAK'ta hangi bölümün başkanlığını yapmıştır?",
+     "gold_answer": "TÜBİTAK Bilim Kolu",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 33,
+   "text_id": 6019,
+   "title": "Emin Kansu",
+   "original_text": "Dr. Kansu, 1988-1992 yılları arasında Üniversitelerarası Kurul kontenjanından YÖK üyeliği ve 1992-1996 yılları arasında Avrupa Birliği ve Avrupa Bilim Komisyonu Etik Çalışma Grubu üyeliğini yapmıştır. 2002 yılında Hacettepe Üniversitesi Onkoloji Enstitüsünde Hematopoietik Kök Hücre Nakli Ünitesi’ni kurmuştur.",
+   "word_count": 37,
+   "image_gemini": "33_gemini.webp",
+   "image_qwen": "33_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Emin Kansu'nun 1992-1996 yılları arasında yaptığı görev nedir?",
+     "gold_answer": "Avrupa Birliği ve Avrupa Bilim Komisyonu Etik Çalışma Grubu üyeliğini",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "2002 yılında Emin Kansu tarafından kurulan ünitenin adı nedir?",
+     "gold_answer": "Hacettepe Üniversitesi Onkoloji Enstitüsünde Hematopoietik Kök Hücre Nakli Ünitesi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 34,
+   "text_id": 1480,
+   "title": "Şakir Kocabaş - kimkimdir.gen.t",
+   "original_text": "1991 yılında Türkiye’ye dönen Dr. Kocabaş İTÜ Uçak ve Uzay Bilimleri Fakültesi’nde öğretim üyesi olarak çalıştı ve Tübitak Marmara Araştırma Merkezi’nde Yapay Zeka Öbek başkanlığı yaptı. Kocabaş’ın yapay zeka alanında 15’den fazla uluslararası makale ve konferans yayını bulunmaktadır.",
+   "word_count": 38,
+   "image_gemini": "34_gemini.webp",
+   "image_qwen": "34_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Şakir Kocabaş'ın İTÜ Uçak ve Uzay Bilimleri Fakültesi’nde görevi nedir?",
+     "gold_answer": "öğretim üyesi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Şakir Kocabaş’ın yapay zeka alanında kaç adet yayını vardır?",
+     "gold_answer": "15’den fazla",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Şakir Kocabaş Tübitak Marmara Araştırma Merkezi’nde hangi görevi üstlenmiştir?",
+     "gold_answer": "Yapay Zeka Öbek başkanlığı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 35,
+   "text_id": 7421,
+   "title": "İbn-i Heysem",
+   "original_text": "Öğrenimine Basra'da başladı. Zamanının yüksek din ve fen ilimlerini de burada öğrendi. Tahsilinin bir kısmını tamamladıktan sonra, Bağdat'a giderek özellikle; matematik, fizik, mühendislik, astronomi, metalurji gibi pozitif bilimleri öğrenip, şöhrete kavuştu. Öğrendiklerini uygulama safhasına koymak için çok gayret gösterdi. Birçok önemli neticeler ve başarılar elde etti.",
+   "word_count": 46,
+   "image_gemini": "35_gemini.webp",
+   "image_qwen": "35_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İbn-i Heysem öğrenimine nerede başlamıştır?",
+     "gold_answer": "Basra'da",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İbn-i Heysem'in şöhrete kavuşmasını sağlayan pozitif bilimler hangileridir?",
+     "gold_answer": "matematik, fizik, mühendislik, astronomi, metalurji",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 36,
+   "text_id": 1556,
+   "title": "Taḳiyyeddīn’in Mekanik Saatleri",
+   "original_text": "Zamanı, gözlem öğesi olarak kullanma düşüncesiyle Taḳiyyeddīn, büyük bir astronomik saat (bingām raṣadī) yapmaya sevkedilmişti.Bu saati Taḳiyyeddīn,İstanbul Rasathanesi aletlerine ayrılmış Sidret el-Müntehā6 isimli risalesinde ayrıntılı tarif etmektedir.Bu eserde çok ilginç bir,gezegenler modeli saati görmekteyiz.Bu saatin saatler, dereceler ve dakikaları ayrı ayrı gösteren kadranının bir çizimi, risalenin müellif nüshasında7 günümüze ulaşmıştır:",
+   "word_count": 50,
+   "image_gemini": "36_gemini.webp",
+   "image_qwen": "36_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Taḳiyyeddīn büyük astronomik saat hakkında hangi risalesinde bilgi vermiştir?",
+     "gold_answer": "Sidret el-Müntehā",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Takiyyeddin'in zamanı ne öğesi olarak kullanma düşüncesi vardır?",
+     "gold_answer": "gözlem öğesi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 37,
+   "text_id": 7275,
+   "title": "Oyalı",
+   "original_text": "Oyalı (21 Kasım 2007 - 16 Nisan 2012), Türkiye'nin ilk klonlanmış canlısı olma niteliği taşıyan koyun. İstanbul Üniversitesi Veteriner Fakültesi Dölerme ve Suni Tohumlama Ana Bilim Dalı’nda 21 Kasım 2007'de dünyaya gelmiştir. Prof. Dr. Sema Birler'in başkanlığındaki proje ekibi tarafından klonlanmıştır. Doğumundan 1 hafta sonra, 28 Kasım 2007’da kardeşi \"Zarife\" doğmuş, ancak Zarife 24 Ağustos 2009’da enfeksiyon nedeniyle ölmüştür. Oyalı, 30 Mart 2011’de “Bahar\" adlı sağlıklı bir yavru dünyaya getirmiştir. 16 Nisan 2012'de Oyalı'nın bir akciğer enfeksiyonu nedeniyle öldüğü açıklanmıştır.",
+   "word_count": 80,
+   "image_gemini": "37_gemini.webp",
+   "image_qwen": "37_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Oyalı neden öldü?",
+     "gold_answer": "bir akciğer enfeksiyonu nedeniyle",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Oyalının kardeşinin ismi nedir?",
+     "gold_answer": "Zarife",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Oyalı'yı kim klonlamıştır?",
+     "gold_answer": "Prof. Dr. Sema Birler'in başkanlığındaki proje ekibi tarafından klonlanmıştır",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Oyalı nerede doğmuştur?",
+     "gold_answer": "İstanbul Üniversitesi Veteriner Fakültesi Dölerme ve Suni Tohumlama Ana Bilim Dalı’nda",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Türkiye'nin ilk klonlanmış canlısı kimdir?",
+     "gold_answer": "koyun",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "Oyalı ismi kime verilmiştir?",
+     "gold_answer": "Türkiye'nin ilk klonlanmış canlısı olma niteliği taşıyan koyun",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 38,
+   "text_id": 4765,
+   "title": "F klavye",
+   "original_text": "Çalışmalar sonucunda hazırlanan klavye önce Devlet Malzeme Ofisine sunuldu. 20 Ekim 1955'te ise Bakanlıklararası Standardizasyon Komitesince bu klavye onandı. Türkiye'deki tüm daktilo makinelerinin Milli Klavye'ye dönüştürülmesi, 1963 yılında Gümrükler Kanunu'na eklenmesi ve 1974 yılında Türk Standartları Enstitüsü tarafından \"zorunlu standart\" olarak onanmasıyla kesinleşti. Yıllar süren çabalara karşın Q klavye karşısında yaygın kullanılır hâle gelmedi. 10 Aralık 2013'te Başbakanlık tarafından Resmî Gazete'de yayımlanan bir genelgede, Türkçeye en uygun klavye olmasından ötürü F klavyenin kamu kurum ve kuruluşlarında yaygınlaştırılması için talimat verilerek, kamu kurum ve kuruluşlarında 2017 yılı sonuna kadar klavyelelerin F klavyeye dönüştürülmesinin sağlanacağını bildirdi.",
+   "word_count": 94,
+   "image_gemini": "38_gemini.webp",
+   "image_qwen": "38_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Başbakanlık tarafından yayınlanan genelgede F klavyenin kamu kurum ve kuruluşlarında kullanımının arttırılması talimatının verilmesinin gerekçesi nedir?",
+     "gold_answer": "Türkçeye en uygun klavye olmasından ötürü",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Tüm daktilo makinelerinin F klavyeye dönüştürülmesi hangi kanuna eklenmiştir?",
+     "gold_answer": "Gümrükler Kanunu'na",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Çalışmalar sonucu hazırlanan F klavye ilk olarak nereye sunulmuştur?",
+     "gold_answer": "Devlet Malzeme Ofisine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 39,
+   "text_id": 7606,
+   "title": "Razi",
+   "original_text": "== Hayatı ==\r\nRazî eczacılık, simya, müzik ve felsefe dallarında son derece önemli katkılar yapmıştır. Farklı alanlarla alakalı yaklaşık 200 kitap ve makalesi vardır. Pediyatri'nin babası olarak bilinir. Ayrıca göz bilimleri konusunda da otorite kabul edilmiştir. Alkol ve gazyağını bulan ve çiçek hastalığını kızamıktan farklı olduğunu ilk keşfeden kişidir. İngiliz oryantalist Edward Granville Brown'a göre tüm zamanların en yetkin bilim insanlarından biridir. Daha çok tıp-eczacılık alanındaki başarısıyla tanınmıştır. İS 750 yılından sonra Türk ve Pers kültürlerinin katılmasıyla kozmopolit bir hal alan İslam medeniyeti her alanda ilerleme kaydetmeye başlamıştır. Bu dönemde birçok İslam şehrinde büyük kütüphaneler kurulmuştur. Bunlar aynı zamanda araştırma merkezleriydi.",
+   "word_count": 101,
+   "image_gemini": "39_gemini.webp",
+   "image_qwen": "39_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Alkol ve gazyağını bulan ve çiçek hastalığını kızamıktan farklı olduğunu ilk keşfeden kişi kimdir?",
+     "gold_answer": "Razî",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Pediyatri'nin babası olarak bilinen ünlü bilim insanı kimdir?",
+     "gold_answer": "Razî",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Razi'nin yaklaşık olarak kaç kitap ve makalesi vardır?",
+     "gold_answer": "200",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Razi hangi alanlarda önemli katkılarda bulunmuştur?",
+     "gold_answer": "eczacılık, simya, müzik ve felsefe",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 40,
+   "text_id": 8765,
+   "title": "Kaşgarlı Mahmud",
+   "original_text": "Karahanlı soyundan asil bir ailenin ferdi olan Muhammed bin Hüseyin (Hüseyin Çağrı Tegin)in oğludur. Annesinin ismi Bibi Rabiy'a al-Basri'dir. Babası Barsgan şehrinde yaşamakta iken bilinmeyen bir sebeple Kaşgar şehrine gelip yerleşmişti. O dönemde Kaşgar, önemli bir bilim ve kültür merkezi idi.  Bu devir teslim için büyük ziyafetler hazırlanmış davullar dövülmüştür. Bu ziyafet sırasında Yağan Tekinin eşlerinden Hanısı, tahta kendi oğlu İbrahimi geçirebilmek için diğer şehzadeleri zehirlemiştir.  Kaşgarlı Mahmud'un babası da zehirlenenler arasındadır. Bu saray darbesinden sonra İbrahim, 1057 yılında Batı Karahanlıların hakanı olmuştur. Kaşgarlı Mahmud ise bu tuzaktan kendisini kurtararak Batı Karahanlı Devleti'nin topraklarından kaçmıştır. Ancak İbrahim Han'ın adamları her yerde onu aradıklarından o kendisini gezgin veya bilgin gibi sıfatlarla takdim ederek sık sık yer değiştirmek zorunda kalmıştır.  Kesin olarak Kaşgarlı Mahmud, dönemin bütün klasik ilimlerini tahsil etti. Arapça ve Farsça öğrendi. Saciye ve Hamidiye Medreseleri'nde tahsil gördükten sonra kendisini Türk dili tetkikatına vakfetmiştir. Bu amaçla Orta Asya'yı boydan boya kat ederek Anadolu'ya oradan da Bağdat'a gitmiş. 15 yıl boyunca Türklerin yaşadığı bütün illeri, şehirleri, obaları, dağları ve çölleri dolaştı.  Bu geziler inceleme amaçlı idi. Türklerin örf ve âdetlerini mahallinde araştırdı. Gezileri sırasında, anadili Türkçenin Hakaniye, Oğuz, Kıpçak, Argu, Çiğil, Kepenek şivelerini de öğrendi. İyi öğrenim görmüş, İslâmiyet'le ilgili bilimsel çalışmaları yakından izlemiştir. Arapça ve Farsçayı da çok iyi öğrenmiştir. Türklerin bulunduğu bölgeleri gezmiş , anadili olan Türkçenin bütün lehçelerini yerlerinde öğrenmiş, geleneklerini göreneklerini yakından izlemiştir.",
+   "word_count": 226,
+   "image_gemini": "40_gemini.webp",
+   "image_qwen": "40_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Kaşgarlı Mahmud'un annesinin adı nedir?",
+     "gold_answer": "Bibi Rabiy'a al-Basri",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 41,
+   "text_id": 5896,
+   "title": "İstanbul Üniversitesi",
+   "original_text": "Üniversitede yaklaşık 73.000 lisansüstü, lisans ve ön lisans öğrencisi öğrenim görmektedir. Bu yükseköğretim işlemi 12.000 öğretim üyesi ve öğretim elemanı tarafından gerçekleştirilmektedir.",
+   "word_count": 22,
+   "image_gemini": "41_gemini.webp",
+   "image_qwen": "41_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Yükseköğretim kimler tarafından verilmektedir?",
+     "gold_answer": "öğretim üyesi ve öğretim elemanı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Üniversitede yaklaşık kaç öğrenci öğrenim görmektedir?",
+     "gold_answer": "73.000",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 42,
+   "text_id": 6311,
+   "title": "KOÇ Üniversitesi",
+   "original_text": "Fakülte binalarında 20 bilgisayar laboratuvarı vardır. Bunlardan ikisi, İngilizce Dil Hazırlık Programı tarafından kullanılan Bilgisayar Destekli Yabancı Dil Öğrenim Laboratuvarı bir diğeri ise diğer yabancı diller öğrencilerinin kullandıkları Leonardo Lab'dir.",
+   "word_count": 30,
+   "image_gemini": "42_gemini.webp",
+   "image_qwen": "42_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Koç Üniversitesi'nde kaç adet bilgisayar laboratuvarı vardır?",
+     "gold_answer": "20 bilgisayar laboratuvarı",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 43,
+   "text_id": 6302,
+   "title": "KOÇ Üniversitesi",
+   "original_text": "Koç Üniversitesi belirli alanlarda bilimsel ve uygulamalı çalışmalar yapmak, politikalar önermek, akademik birikimi toplumsal, sosyal, ekonomik ve hukuki alanlarda topluma aktarmak amacıyla çeşitli araştırma merkezleri kurmuştur. Aynı zamanda Koç Üniversitesi’nin Rumeli Feneri Kampüsü’nde ve Hemşirelik Yüksek Okulu’nda sayıları bölümlerine göre çeşitlilik gösteren 72 adet laboratuvarı mevcuttur.",
+   "word_count": 46,
+   "image_gemini": "43_gemini.webp",
+   "image_qwen": "43_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Koç Üniversitesi bünyesinde ne kara laboratuvar vardır?",
+     "gold_answer": "72 adet",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Koç Üniversitesi'nin kurduğu araştırma merkezlerinin genel amacı nedir?",
+     "gold_answer": "akademik birikimi toplumsal, sosyal, ekonomik ve hukuki alanlarda topluma aktarmak",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 44,
+   "text_id": 5205,
+   "title": "Ratip Berker",
+   "original_text": "Adı İTÜ Gümüşsuyu yerleşkesindeki kütüphaneye verilmiştir. Ratip Berker'in daha sonra Sabancı Üniversitesi rektörü de olan oğlu Nihat Berker de Massachusetts Teknoloji Enstitüsü'nde uzun yıllar İstatistiksel mekanik profesörü olarak hizmet vermiştir. Nihat Berker'in oğlu olan torunu Selim Berker Harvard Üniversitesi'nin felsefe bölümünde etik ve epistemoloji profesörü olmuştur.",
+   "word_count": 46,
+   "image_gemini": "44_gemini.webp",
+   "image_qwen": "44_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Ratip Berkerin oğlunun isimi nedir?",
+     "gold_answer": "Nihat Berker",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 45,
+   "text_id": 6842,
+   "title": "İstanbul Üniversitesi Zooloji Müzesi",
+   "original_text": "Koleksiyon bölümünde Türkiye faunasına ait böcekler, kuşlar, memeliler ve Türkiye denizlerine ait dip omurgasızlar bulunur. Bernard Tubini’ye ait olan ve ağırlıklı olarak Coleoptera ordosuna ait örnekleri içeren koleksiyon, Atıf Şengün’ün “İstanbul Gündüz Kelebekleri” adlı eserinde yayınlanan kelebek örnekleri, Türkiye denizlerinden toplanan bentik omurgasızlara ait 878 kayıtlı kavanoz, Kuşlara ait koleksiyonda ise 126 türe ait 329 örnek ve memelilere ait bir koleksiyon müzede bulunmaktadır.",
+   "word_count": 63,
+   "image_gemini": "45_gemini.webp",
+   "image_qwen": "45_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Koleksiyon bölümünde bulunan türler nelerdir?",
+     "gold_answer": "Türkiye faunasına ait böcekler, kuşlar, memeliler ve Türkiye denizlerine ait dip omurgasızlar",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İstanbul kelebekleri adlı eser kime aittir?",
+     "gold_answer": "Atıf Şengün",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Kuşlara ait koleksiyonda kaç örnek vardır?",
+     "gold_answer": "329",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 46,
+   "text_id": 3163,
+   "title": "TOBB ETÜ",
+   "original_text": "TOBB Ekonomi ve Teknoloji Üniversitesi, üniversiteleri akademik başarıları bakımından değerlendirerek tüm dünya üniversiteleri içinde bir sıralamaya tâbi tutan İngiliz kökenli Times Higher Education'ın World University Rankings sıralamasına girebilen 18 Türk üniversitesi arasında yer almaktadır ve TOBB ETÜ, bu listede yer alan en genç Türk üniversitesidir. Bu sıralamada, TOBB ETÜ 601-800’üncülük bandında bulunmaktadır.",
+   "word_count": 52,
+   "image_gemini": "46_gemini.webp",
+   "image_qwen": "46_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Times Higher Education'ın World University Rankings sıralamasında kaç tane Türk üniversitesi vardır?",
+     "gold_answer": "18",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Times Higher Education'ın World University Rankings sıralamasındaki en genç Türk üniversitesi hangisidir?",
+     "gold_answer": "TOBB ETÜ",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Times Higher Education'ın World University Rankings hangi ülke kökenlidir?",
+     "gold_answer": "İngiliz",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 47,
+   "text_id": 7340,
+   "title": "Kara Harp Okulu",
+   "original_text": "Kara Kuvvetleri Komutanlığının en önemli subay kaynağı olan Kara Harp Okulu öğrencileri birinci sınıfta, Sayısal, Sözel ve Uluslararası İlişkiler tabanlı olmak üzere iki ayrı alana ayrılarak ikinci sınıfta görecekleri lisans programlarına yönelik dersler almaktadır. 2’nci, 3’üncü ve 4’üncü sınıflarda ise;iktisadi ve idari bilimler ile teknik bölümler dallarında toplamda on ayrı lisans programında modern laboratuvar, dershane ve amfilerde akademik unvana sahip öğretim üyeleri tarafından eğitim ve öğretim verilmektedir.",
+   "word_count": 67,
+   "image_gemini": "47_gemini.webp",
+   "image_qwen": "47_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Kara Harp Okulu öğrencileri birinci sınıfta hangi alanlara ayrılırlar",
+     "gold_answer": "Sayısal, Sözel ve Uluslararası İlişkiler",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 48,
+   "text_id": 3781,
+   "title": "İstanbul Üniversitesi Zooloji Müzesi",
+   "original_text": "Müzede sergi ve koleksiyon alanı olmak üzere iki alan bulundur.  Sergi alanında 1500′ü böcek olmak üzere 2034 tür sergilenir. Kanguru iskeleti, su aygırı ve fil kafa iskeletleri, tapir iskeleti ile timsahlar çok farklı karasal kıtalara ait örnekler olarak müzede sergilenen türlerdendir.  Dünyada az sayıda zooloji müzesinde bulunan Sphenodon punctatus (Hatteria punctata)  müzede sergilenen önemli türlerdendir.  S. punctatus ,sadece Yeni Zelanda’nın yakınlarındaki bir adada yaşaya ve Triyas’ dan beri varlığını sürdürür.  Nesli tükenmiş olarak kabul edilen Panthera pardus tulliana (Anadolu parsı) da müzede sergilenmektedir.",
+   "word_count": 83,
+   "image_gemini": "48_gemini.webp",
+   "image_qwen": "48_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "İstanbul Üniversitesi Zooloji Müzesinde sergilenen ,Dünya'da az sayıda zooloji müzesinde bulunan önemli türlerden birinin adı nedir?",
+     "gold_answer": "Sphenodon punctatus (Hatteria punctata)",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "İstanbul Üniversitesi Zooloji Müzesinde sergilenen S.punctatus nerede yaşamaktadır?",
+     "gold_answer": "Yeni Zelanda",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "İstanbul Üniversitesi Zooloji Müzesinde nesil tükenmiş olarak kabul edilen hangi canlı sergilenmektedir?",
+     "gold_answer": "Panthera pardus tulliana (Anadolu parsı)",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 49,
+   "text_id": 7582,
+   "title": "Hasan Fahrettin Keleştemur",
+   "original_text": "Hasan Fahrettin Keleştemur =\r\nHasan Fahrettin Keleştemur (d. 25 Eylül 1955, Elâzığ), Kayseri'de bulunan Erciyes Üniversitesi'nin eski rektörü ve Türkiye Sağlık Enstitüleri (TÜSEB) Başkanı.\r\n\r\nTıp Fakültesini 1972-1979 yılları arasında Hacettepe Üniversitesinde tamamlayan Keleştemur, 1980-1984 yıllarında Erciyes Üniversitesi Tıp Fakültesi'nde iç hastalıkları ihtisası yaptı. 1990 yılında doçent, 1995'te profesör unvanı alan Keleştemur, İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi ve Londra Üniversitesi St. Bartholomew's Hastanesinde endokrinoloji eğitimi aldı.\r\n\r\nTürkiye'de ve çeşitli ülkelerde yayımlanmış 140 bilimsel yazısı bulunan Keleştemur, Erciyes Üniversitesi'nde de birçok bilimsel araştırma projesi yürüttü.\r\n\r\nKeleştemur evli ve 5 çocuk babasıdır.\r\n\r\nAğustos 2008'den bu yana Erciyes Üniversitesi Rektörlüğü görevini yürütmektedir. 2014 yılı TÜBİTAK Bilim Ödülü'nü “Nöroendokrinoloji alanında kafa travmasına bağlı nöroendokrin değişiklikler konusundaki uluslararası düzeyde üstün nitelikli çalışmaları” nedeniyle kazanmıştır.",
+   "word_count": 118,
+   "image_gemini": "49_gemini.webp",
+   "image_qwen": "49_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Keleştemur Ağustos 2008'den bu yana hangi üniversitede Rektörlük görevini yürütmektedir?",
+     "gold_answer": "Erciyes Üniversitesi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Nöroendokrinoloji alanında kafa travmasına bağlı nöroendokrin değişiklikler konusundaki uluslararası düzeyde üstün nitelikli çalışmaları nedeniyle Keleştemurun kazandığı ödül nedir?",
+     "gold_answer": "TÜBİTAK Bilim Ödülü",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Keleştemur, İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi ve Londra Üniversitesi St. Bartholomew's Hastanesinde ne eğitimi almıştır?",
+     "gold_answer": "endokrinoloji eğitimi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 50,
+   "text_id": 7332,
+   "title": "Kara Harp Okulu",
+   "original_text": "Kara Harp Okulunun amacı, Türk Silahlı Kuvvetleri İç Hizmet Kanunu ve Yönetmeliği ile harp okulları kanun ve yönetmeliklerinde belirtilen ve asker kişilerde bulunması gereken niteliklere sahip, liderlik özellikleri gelişmiş, askeri sevk ve idare edebilme yeteneği kazanmış ve yeterli fiziki yeteneğe sahip olmuş, Kara Kuvvetleri Komutanlığının ihtiyacına göre belirlenen bilim dallarında lisans eğitim ve öğretimini görmüş, sınıf okulu ve eğitim merkezlerinde verilecek subay temel mesleki eğitim ve öğretimini takip edebilecek yeterliliğe ulaşmış muvazzaf subay yetiştirmek ve Kara Kuvvetlerinin ihtiyacı olan konularda lisansüstü eğitim ve öğretim sağlamaktadır. Kara Kuvvetleri Komutanlığının ihtiyaç duyduğu sınıf ve miktarda subay yetiştiren asker yüksek öğretim kurumu olan Kara Harp Okulunda, subay diplomasının yanı sıra; endüstri ve sistem, elektronik, makine, inşaat, bilgisayar, harita mühendisliği, işletme, kamu yönetimi, sosyoloji ve uluslararası ilişkiler lisans programlarında ulusal ve uluslararası denkliği/geçerliliği olan lisans diploması da verilmektedir. Verilen akademik eğitimle, Harbiyelilerin, muharebe sahasının karmaşık problemlerini çözecek bilimsel bakış açısına ve donanıma sahip olması amaçlanmaktadır.",
+   "word_count": 151,
+   "image_gemini": "50_gemini.webp",
+   "image_qwen": "50_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Kara Harp Okulunda hangi programlarda lisans diploması verilmektedir",
+     "gold_answer": "endüstri ve sistem, elektronik, makine, inşaat, bilgisayar, harita mühendisliği, işletme, kamu yönetimi, sosyoloji ve uluslararası ilişkiler lisans programlarında",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  }
+ ]
+}

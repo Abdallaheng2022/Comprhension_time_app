@@ -1,0 +1,2258 @@
+{
+ "language": "en",
+ "n_records": 50,
+ "n_questions_total": 243,
+ "records": [
+  {
+   "sample_id": 1,
+   "text_id": "5727ad89ff5b5019007d9260",
+   "title": "Gramophone_record",
+   "original_text": "One early attempt at lengthening the playing time should be mentioned. At least one manufacturer in the early 1920s, World Records, produced records that played at a constant linear velocity, controlled by Noel Pemberton Billing's patented add-on governor device. As these were played from the outside to the inside, the rotational speed of the records increased as reproduction progressed. This action is similar (although in reverse) to that on the modern compact disc and the CLV version of its predecessor, the Philips Laser Disc.",
+   "word_count": 84,
+   "image_gemini": "01_gemini.webp",
+   "image_qwen": "01_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Who had made an attempt in the 1920s to release a long play time recording?",
+     "gold_answer": "World Records",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What caused the constant linear velocity?",
+     "gold_answer": "Noel Pemberton Billing's patented add-on governor device",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What was a unique feature of World Records records?",
+     "gold_answer": "played from the outside to the inside",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What currently utilized item was World Records CLV similar to?",
+     "gold_answer": "Philips Laser Disc",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 2,
+   "text_id": "56cee5a1aab44d1400b88c23",
+   "title": "New_York_City",
+   "original_text": "The Great Irish Famine brought a large influx of Irish immigrants. Over 200,000 were living in New York by 1860, upwards of a quarter of the city's population. There was also extensive immigration from the German provinces, where revolutions had disrupted societies, and Germans comprised another 25% of New York's population by 1860.",
+   "word_count": 53,
+   "image_gemini": "02_gemini.webp",
+   "image_qwen": "02_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What event brought many Irish immigrants to the United States?",
+     "gold_answer": "Great Irish Famine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "In 1860, approximately how many people of Irish extraction were in New York?",
+     "gold_answer": "200,000",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "In 1860, what fraction of the city population was composed of Irish immigrants?",
+     "gold_answer": "a quarter",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In 1860, what percentage of the city population was composed of German immigrants?",
+     "gold_answer": "25%",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What events provoked the immigration of people from Germany?",
+     "gold_answer": "revolutions",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "Which event brought upon a lot of Irish immigrants to NYC?",
+     "gold_answer": "Great Irish Famine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "How many immigrants that were Irish were living in New York in 1860?",
+     "gold_answer": "Over 200,000",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 3,
+   "text_id": "572a49391d046914007798c5",
+   "title": "East_Prussia",
+   "original_text": "Following Nazi Germany's defeat in World War II in 1945, East Prussia was partitioned between Poland and the Soviet Union according to the Potsdam Conference. Southern East Prussia was placed under Polish administration, while northern East Prussia was divided between the Soviet republics of Russia (the Kaliningrad Oblast) and Lithuania (the constituent counties of the Klaipėda Region). The city of Königsberg was renamed Kaliningrad in 1946. The German population of the province largely evacuated during the war, but several hundreds of thousands died during the years 1944–46 and the remainder were subsequently expelled.",
+   "word_count": 93,
+   "image_gemini": "03_gemini.webp",
+   "image_qwen": "03_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What two countries were East Prussia partitioned into after World Was II?",
+     "gold_answer": "Poland and the Soviet Union",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What was the city of Konigsberg renamed in to in 1946?",
+     "gold_answer": "Kaliningrad",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What happened to most of the German population during the war in what is current day Kaliningrad?",
+     "gold_answer": "evacuated during the war",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 4,
+   "text_id": "56e87dae0b45c0140094ccd2",
+   "title": "Bern",
+   "original_text": "As of 2008[update], the population was 47.5% male and 52.5% female. The population was made up of 44,032 Swiss men (35.4% of the population) and 15,092 (12.1%) non-Swiss men. There were 51,531 Swiss women (41.4%) and 13,726 (11.0%) non-Swiss women. Of the population in the municipality, 39,008 or about 30.3% were born in Bern and lived there in 2000. There were 27,573 or 21.4% who were born in the same canton, while 25,818 or 20.1% were born somewhere else in Switzerland, and 27,812 or 21.6% were born outside of Switzerland.",
+   "word_count": 90,
+   "image_gemini": "04_gemini.webp",
+   "image_qwen": "04_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How many Swiss men live in Bern?",
+     "gold_answer": "35.4%",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What percent of the population is born somewhere else in Switzerland?",
+     "gold_answer": "20.1%",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What percent were born outside of Switzerland?",
+     "gold_answer": "21.6%",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 5,
+   "text_id": "56df8a9638dc42170015202b",
+   "title": "Oklahoma_City",
+   "original_text": "OU Medicine, an academic medical institution located on the campus of The University of Oklahoma Health Sciences Center, is home to OU Medical Center. OU Medicine operates Oklahoma's only level-one trauma center at the OU Medical Center and the state's only level-one trauma center for children at Children's Hospital at OU Medicine, both of which are located in the Oklahoma Health Center district. Other medical facilities operated by OU Medicine include OU Physicians and OU Children's Physicians, the OU College of Medicine, the Oklahoma Cancer Center and OU Medical Center Edmond, the latter being located in the northern suburb of Edmond.",
+   "word_count": 101,
+   "image_gemini": "05_gemini.webp",
+   "image_qwen": "05_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Where is the Children's hospital located?",
+     "gold_answer": "Oklahoma Health Center district",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 6,
+   "text_id": "57301fc6947a6a140053d142",
+   "title": "Swaziland",
+   "original_text": "At no more than 200 kilometres (120 mi) north to south and 130 kilometres (81 mi) east to west, Swaziland is one of the smallest countries in Africa. Despite its size, however, its climate and topography is diverse, ranging from a cool and mountainous highveld to a hot and dry lowveld. The population is primarily ethnic Swazis whose language is siSwati. They established their kingdom in the mid-18th century under the leadership of Ngwane III; the present boundaries were drawn up in 1881. After the Anglo-Boer War, Swaziland was a British protectorate from 1903 until 1967. It regained its independence on 6 September 1968.",
+   "word_count": 104,
+   "image_gemini": "06_gemini.webp",
+   "image_qwen": "06_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How wide is Swaziland in miles??",
+     "gold_answer": "81 mi",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is the primary language spoken by the people in Swaziland?",
+     "gold_answer": "siSwati",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "In terms of size where does Swaziland rank within Africa in terms of country size?",
+     "gold_answer": "one of the smallest",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "When did the ethnic Swazis establish a kingdom?",
+     "gold_answer": "mid-18th century",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who was the leader of the 18th century Swazi kingdom?",
+     "gold_answer": "Ngwane III",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 7,
+   "text_id": "56f8c3ce9b226e1400dd0f4f",
+   "title": "Alps",
+   "original_text": "Radiocarbon dated charcoal placed around 50,000 years ago was found in the Drachloch (Dragon's Hole) cave above the village of Vattis in the canton of St. Gallen, proving that the high peaks were visited by prehistoric people. Seven bear skulls from the cave may have been buried by the same prehistoric people. The peaks, however, were mostly ignored except for a few notable examples, and long left to the exclusive attention of the people of the adjoining valleys. The mountain peaks were seen as terrifying, the abode of dragons and demons, to the point that people blindfolded themselves to cross the Alpine passes. The glaciers remained a mystery and many still believed the highest areas to be inhabited by dragons.",
+   "word_count": 120,
+   "image_gemini": "07_gemini.webp",
+   "image_qwen": "07_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How old was the charcoal placed in the Drachloch cave?",
+     "gold_answer": "50,000 years",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What does the finding of charcoal in Dragon's Hole prove?",
+     "gold_answer": "the high peaks were visited by prehistoric people",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What may have been buried by the same prehistoric people?",
+     "gold_answer": "Seven bear skulls",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "People blindfolded themselves to cross what?",
+     "gold_answer": "Alpine passes",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 8,
+   "text_id": "57288a732ca10214002da452",
+   "title": "Myanmar",
+   "original_text": "The immediate cause of the riots is unclear, with many commentators citing the killing of ten Burmese Muslims by ethnic Rakhine after the rape and murder of a Rakhine woman as the main cause. Whole villages have been \"decimated\". Over 300 houses and a number of public buildings have been razed. According to Tun Khin, the president of the Burmese Rohingya Organisation UK (BROUK), as of 28 June 2012, 650 Rohingyas have been killed, 1,200 are missing, and more than 80,000 have been displaced. According to the Myanmar authorities, the violence, between ethnic Rakhine Buddhists and Rohingya Muslims, left 78 people dead, 87 injured, and thousands of homes destroyed. It displaced more than 52,000 people.",
+   "word_count": 115,
+   "image_gemini": "08_gemini.webp",
+   "image_qwen": "08_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What was believed to be one of the Burma reasons for the unrest in 2012 ?",
+     "gold_answer": "many commentators citing the killing of ten Burmese Muslims by ethnic Rakhine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "How many are believed to have been uprooted by this unrest ?",
+     "gold_answer": "It displaced more than 52,000 people",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Who is the president of the BROUK's UK division?",
+     "gold_answer": "Tun Khin",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "How many people where missing after the 2012 Burma civil unrest ?",
+     "gold_answer": "1,200 are missing",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 9,
+   "text_id": "572e9a4edfa6aa1500f8d1e1",
+   "title": "Cyprus",
+   "original_text": "In 2014, Turkey was ordered by the European Court of Human Rights to pay well over $100m in compensation to Cyprus for the invasion; Ankara announced that it would ignore the judgment. In 2014, a group of Cypriot refugees and a European parliamentarian, later joined by the Cypriot government, filed a complaint to the International Court of Justice, accusing Turkey of violating the Geneva Conventions by directly or indirectly transferring its civilian population into occupied territory. Over the preceding ten years, civilian transfer by Turkey had \"reached new heights\", in the words of one US ambassador.[f] Other violations of the Geneva and the Hague Conventions—both ratified by Turkey—amount to what archaeologist Sophocles Hadjisavvas called \"the organized destruction of Greek and Christian heritage in the north\". These violations include looting of cultural treasures, deliberate destruction of churches, neglect of works of art, and altering the names of important historical sites, which was condemned by the International Council on Monuments and Sites. Hadjisavvas has asserted that these actions are motivated by a Turkish policy of erasing the Greek presence in Northern Cyprus within a framework of ethnic cleansing, as well as by greed and profit-seeking on the part of the individuals involved.",
+   "word_count": 200,
+   "image_gemini": "09_gemini.webp",
+   "image_qwen": "09_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How much was Turkey ordered to pay in compensation to Cyprus?",
+     "gold_answer": "over $100m",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Who was accused of violating the Geneva Conventions?",
+     "gold_answer": "Turkey",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What year was Turkey ordered to pay fines to Cyprus?",
+     "gold_answer": "2014",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Why was Turkey accused of violating the Geneva Conventions?",
+     "gold_answer": "directly or indirectly transferring its civilian population into occupied territory",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 10,
+   "text_id": "57281dd5ff5b5019007d9d74",
+   "title": "LaserDisc",
+   "original_text": "As Pioneer introduced Digital Audio to LaserDisc in 1985, they further refined the CAA format. CAA55 was introduced in 1985 with a total playback capacity per side of 55 minutes 5 seconds, reducing the video capacity to resolve bandwidth issues with the inclusion of Digital Audio. Several titles released between 1985 and 1987 were analog audio only due to the length of the title and the desire to keep the film on one disc (e.g., Back to the Future). By 1987, Pioneer had overcome the technical challenges and was able to once again encode in CAA60, allowing a total of 60 minutes 5 seconds. Pioneer further refined CAA, offering CAA45, encoding 45 minutes of material, but filling the entire playback surface of the side. Used on only a handful of titles, CAA65 offered 65 minutes 5 seconds of playback time per side. There are a handful of titles pressed by Technidisc that used CAA50. The final variant of CAA is CAA70, which could accommodate 70 minutes of playback time per side. There are not any known uses of this format on the consumer market.",
+   "word_count": 184,
+   "image_gemini": "10_gemini.webp",
+   "image_qwen": "10_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What was the length capacity of the CAA55 format?",
+     "gold_answer": "55 minutes 5 seconds",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Why was Back to the Future released with analog sound?",
+     "gold_answer": "due to the length of the title and the desire to keep the film on one disc",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What was the maximum length of the CAA60 format?",
+     "gold_answer": "60 minutes 5 seconds",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "How many works were released to the public with the CAA70 format?",
+     "gold_answer": "There are not any known uses of this format on the consumer market",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 11,
+   "text_id": "56de8b764396321400ee2a0d",
+   "title": "Arnold_Schwarzenegger",
+   "original_text": "During the 1980s, audiences had an appetite for action films, with both Schwarzenegger and Sylvester Stallone becoming international stars. Schwarzenegger's roles reflected his sense of humor, separating him from more serious action hero films, such as the alternative universe poster for Terminator 2: Judgment Day starring Stallone in the comedy thriller Last Action Hero. He made a number of successful films, such as Commando (1985), Raw Deal (1986), The Running Man (1987), Predator (1987), and Red Heat (1988).",
+   "word_count": 78,
+   "image_gemini": "11_gemini.webp",
+   "image_qwen": "11_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What other action star was an international hit in the 1980s?",
+     "gold_answer": "Sylvester Stallone",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What year was Schwarzenegger's film The Running Man released?",
+     "gold_answer": "1987",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 12,
+   "text_id": "56e4c33039bdeb14003479bc",
+   "title": "Architecture",
+   "original_text": "Architects such as Mies van der Rohe, Philip Johnson and Marcel Breuer worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the Industrial Revolution, including steel-frame construction, which gave birth to high-rise superstructures. By mid-century, Modernism had morphed into the International Style, an aesthetic epitomized in many ways by the Twin Towers of New York's World Trade Center designed by Minoru Yamasaki.",
+   "word_count": 86,
+   "image_gemini": "12_gemini.webp",
+   "image_qwen": "12_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What made it possible to design architecture through new means and methods?",
+     "gold_answer": "the Industrial Revolution",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What new type of construction allowed the making of skyscrapers?",
+     "gold_answer": "steel-frame construction",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What style came after Modernism?",
+     "gold_answer": "International Style",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What is an example of International Style?",
+     "gold_answer": "Twin Towers",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who designed the Twin Towers?",
+     "gold_answer": "Minoru Yamasaki",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 13,
+   "text_id": "57267f35f1498d1400e8e1c0",
+   "title": "British_Empire",
+   "original_text": "Under the terms of the concluding Treaty of Versailles signed in 1919, the empire reached its greatest extent with the addition of 1,800,000 square miles (4,700,000 km2) and 13 million new subjects. The colonies of Germany and the Ottoman Empire were distributed to the Allied powers as League of Nations mandates. Britain gained control of Palestine, Transjordan, Iraq, parts of Cameroon and Togo, and Tanganyika. The Dominions themselves also acquired mandates of their own: the Union of South Africa gained South-West Africa (modern-day Namibia), Australia gained German New Guinea, and New Zealand Western Samoa. Nauru was made a combined mandate of Britain and the two Pacific Dominions.",
+   "word_count": 107,
+   "image_gemini": "13_gemini.webp",
+   "image_qwen": "13_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "When was the Treaty of Versailles signed?",
+     "gold_answer": "1919",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "How many square miles did the Treaty of Versailles add to the British Empire?",
+     "gold_answer": "1,800,000",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Which countries' colonies were given to the Allied powers in 1919?",
+     "gold_answer": "Germany and the Ottoman Empire",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What modern-day country is South-West Africa?",
+     "gold_answer": "Namibia",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "How many people did the Treaty of Versailles add to the British Empire?",
+     "gold_answer": "13 million",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 14,
+   "text_id": "57323080e17f3d14004226ff",
+   "title": "Religion_in_ancient_Rome",
+   "original_text": "With the abatement of persecution, St. Jerome acknowledged the Empire as a bulwark against evil but insisted that \"imperial honours\" were contrary to Christian teaching. His was an authoritative but minority voice: most Christians showed no qualms in the veneration of even \"pagan\" emperors. The peace of the emperors was the peace of God; as far as the Church was concerned, internal dissent and doctrinal schism were a far greater problem. The solution came from a hitherto unlikely source: as pontifex maximus Constantine I favoured the \"Catholic Church of the Christians\" against the Donatists because:",
+   "word_count": 95,
+   "image_gemini": "14_gemini.webp",
+   "image_qwen": "14_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Who said the imperial honors were against Christian teachings?",
+     "gold_answer": "St. Jerome",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "To what did the Christian church equate the peace of the emperors?",
+     "gold_answer": "peace of God",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "With what veneration did most Christians have little trouble?",
+     "gold_answer": "\"pagan\" emperors",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What Christian group did Constantine I disapprove?",
+     "gold_answer": "Donatists",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What pontifax maximus favored the Catholic church?",
+     "gold_answer": "Constantine I",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 15,
+   "text_id": "5728a4d44b864d1900164b4e",
+   "title": "History_of_India",
+   "original_text": "In 1526, Babur, a Timurid descendant of Timur and Genghis Khan from Fergana Valley (modern day Uzbekistan), swept across the Khyber Pass and established the Mughal Empire, which at its zenith covered modern day Afghanistan, Pakistan, India and Bangladesh. However, his son Humayun was defeated by the Afghan warrior Sher Shah Suri in the year 1540, and Humayun was forced to retreat to Kabul. After Sher Shah's death, his son Islam Shah Suri and the Hindu emperor Hemu Vikramaditya, who had won 22 battles against Afghan rebels and forces of Akbar, from Punjab to Bengal and had established a secular rule in North India from Delhi till 1556 after winning Battle of Delhi. Akbar's forces defeated and killed Hemu in the Second Battle of Panipat on 6 November 1556.",
+   "word_count": 129,
+   "image_gemini": "15_gemini.webp",
+   "image_qwen": "15_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What empire did Babur found in northern India?",
+     "gold_answer": "Mughal Empire",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Who defeated Babur's son in 1540?",
+     "gold_answer": "Sher Shah Suri",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Of what nationality was Sher Shah Suri?",
+     "gold_answer": "Afghan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "At what place did Akbar's army defeat Hemu in 1556?",
+     "gold_answer": "Second Battle of Panipat",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "By what route did Babur enter India?",
+     "gold_answer": "Khyber Pass",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 16,
+   "text_id": "57268bee5951b619008f764f",
+   "title": "Korean_War",
+   "original_text": "One facet of the changing attitude toward Korea and whether to get involved was Japan. Especially after the fall of China to the Communists, U.S. East Asian experts saw Japan as the critical counterweight to the Soviet Union and China in the region. While there was no United States policy that dealt with South Korea directly as a national interest, its proximity to Japan increased the importance of South Korea. Said Kim: \"The recognition that the security of Japan required a non-hostile Korea led directly to President Truman's decision to intervene... The essential point... is that the American response to the North Korean attack stemmed from considerations of US policy toward Japan.\"",
+   "word_count": 112,
+   "image_gemini": "16_gemini.webp",
+   "image_qwen": "16_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What country was believed to provide a counterbalance to China's and the Soviet Union's involvement in Korea?",
+     "gold_answer": "Japan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Which President decided to intervene after realizing that Japan's security would be affected by the hostility in Korea?",
+     "gold_answer": "President Truman",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Why was South Korea important to the US?",
+     "gold_answer": "US policy toward Japan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What affected America's response to the situation in South Korea?",
+     "gold_answer": "US policy toward Japan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 17,
+   "text_id": "570b03a2ec8fbc190045b7d8",
+   "title": "Gregorian_calendar",
+   "original_text": "Lilius's proposals had two components. Firstly, he proposed a correction to the length of the year. The mean tropical year is 365.24219 days long. As the average length of a Julian year is 365.25 days, the Julian year is almost 11 minutes longer than the mean tropical year. The discrepancy results in a drift of about three days every 400 years. Lilius's proposal resulted in an average year of 365.2425 days (see Accuracy). At the time of Gregory's reform there had already been a drift of 10 days since the Council of Nicaea, resulting in the vernal equinox falling on 10 or 11 March instead of the ecclesiastically fixed date of 21 March, and if unreformed it would drift further. Lilius proposed that the 10-day drift should be corrected by deleting the Julian leap day on each of its ten occurrences over a period of forty years, thereby providing for a gradual return of the equinox to 21 March.",
+   "word_count": 159,
+   "image_gemini": "17_gemini.webp",
+   "image_qwen": "17_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What did Lilius first propose to correct in the calendar?",
+     "gold_answer": "length of the year",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "By how much is the Julian calendar too long?",
+     "gold_answer": "11 minutes",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "How much difference does the extra 11 minutes make over 400 years time?",
+     "gold_answer": "three days",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "On what date was the original vernal equinox set?",
+     "gold_answer": "21 March",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "By the time of Lilius where was the equinox falling?",
+     "gold_answer": "10 or 11 March",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 18,
+   "text_id": "57269d17708984140094cbc5",
+   "title": "The_Sun_(United_Kingdom)",
+   "original_text": "On 7 July 2004, in response to verbal attacks in Liverpool on Wayne Rooney, just before his transfer from Everton to Manchester United, who had sold his life story to The Sun, the paper devoted a full-page editorial to an apology for the \"awful error\" of its Hillsborough coverage and argued that Rooney (who was still only three years old at the time of Hillsborough) should not be punished for its \"past sins\". In January 2005, The Sun's managing editor Graham Dudman admitting the Hillsborough coverage was \"the worst mistake in our history\", added: \"What we did was a terrible mistake. It was a terrible, insensitive, horrible article, with a dreadful headline; but what we'd also say is: we have apologised for it, and the entire senior team here now is completely different from the team that put the paper out in 1989.\"",
+   "word_count": 143,
+   "image_gemini": "18_gemini.webp",
+   "image_qwen": "18_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Which footballer was verbally attacked in Liverpool?",
+     "gold_answer": "Wayne Rooney",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What team did Rooney transfer to?",
+     "gold_answer": "Manchester United",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What was Rooney's age at the time of the Hillsborough disaster?",
+     "gold_answer": "three years old",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who was managing editor of The Sun in 2005?",
+     "gold_answer": "Graham Dudman",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "How did Dudman describe The Sun's Hillsborough coverage?",
+     "gold_answer": "\"the worst mistake in our history\"",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 19,
+   "text_id": "57313e9a05b4da19006bcf30",
+   "title": "Qing_dynasty",
+   "original_text": "Han Chinese farmers were resettled from north China by the Qing to the area along the Liao River in order to restore the land to cultivation. Wasteland was reclaimed by Han Chinese squatters in addition to other Han who rented land from Manchu landlords. Despite officially prohibiting Han Chinese settlement on the Manchu and Mongol lands, by the 18th century the Qing decided to settle Han refugees from northern China who were suffering from famine, floods, and drought into Manchuria and Inner Mongolia so that Han Chinese farmed 500,000 hectares in Manchuria and tens of thousands of hectares in Inner Mongolia by the 1780s. Qianlong allowed Han Chinese peasants suffering from drought to move into Manchuria despite him issuing edicts in favor of banning them from 1740–1776. Chinese tenant farmers rented or even claimed title to land from the \"imperial estates\" and Manchu Bannerlands in the area. Besides moving into the Liao area in southern Manchuria, the path linking Jinzhou, Fengtian, Tieling, Changchun, Hulun, and Ningguta was settled by Han Chinese during the Qianlong Emperor's rule, and Han Chinese were the majority in urban areas of Manchuria by 1800. To increase the Imperial Treasury's revenue, the Qing sold formerly Manchu only lands along the Sungari to Han Chinese at the beginning of the Daoguang Emperor's reign, and Han Chinese filled up most of Manchuria's towns by the 1840s according to Abbe Huc.",
+   "word_count": 232,
+   "image_gemini": "19_gemini.webp",
+   "image_qwen": "19_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Where were starving Han sent by the Qing?",
+     "gold_answer": "Manchuria and Inner Mongolia",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "How much land did the Han farm in Inner Mongolia?",
+     "gold_answer": "tens of thousands of hectares",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What other types of land were the Han allowed to farm?",
+     "gold_answer": "\"imperial estates\" and Manchu Bannerlands",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who was the emperor in the later half of the 18th century?",
+     "gold_answer": "Qianlong",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What ethnicity was the majority in urban Manchuria?",
+     "gold_answer": "Han Chinese",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 20,
+   "text_id": "57282c74ff5b5019007d9e84",
+   "title": "PlayStation_3",
+   "original_text": "PlayStation Plus (commonly abbreviated PS+ and occasionally referred to as PSN Plus) is a premium PlayStation Network subscription service that was officially unveiled at E3 2010 by Jack Tretton, President and CEO of SCEA. Rumors of such service had been in speculation since Kaz Hirai's announcement at TGS 2009 of a possible paid service for PSN but with the current PSN service still available. Launched alongside PS3 firmware 3.40 and PSP firmware 6.30 on June 29, 2010, the paid-for subscription service provides users with enhanced services on the PlayStation Network, on top of the current PSN service which is still available with all of its features. These enhancements include the ability to have demos, game and system software updates download automatically to PlayStation 3. Subscribers also get early or exclusive access to some betas, game demos, premium downloadable content and other PlayStation Store items. North American users also get a free subscription to Qore. Users may choose to purchase either a one-year or a three-month subscription to PlayStation Plus.",
+   "word_count": 169,
+   "image_gemini": "20_gemini.webp",
+   "image_qwen": "20_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What's the name of Sony's exclusive PlayStation Network subscription service?",
+     "gold_answer": "PlayStation Plus",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "How is PlayStation Plus often abbreviated?",
+     "gold_answer": "PS+",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Who was the President and CEO of SCEA in the year 2010?",
+     "gold_answer": "Jack Tretton",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "On what date did the PlayStation Plus service officially launch?",
+     "gold_answer": "June 29, 2010",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Duration options for subscription to PS+ are either three months or what period of time?",
+     "gold_answer": "one-year",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 21,
+   "text_id": "572a9a1cbe1ee31400cb809f",
+   "title": "Rajasthan",
+   "original_text": "The first mention of the name \"Rajasthan\" appears in James Tod's 1829 publication Annals and Antiquities of Rajast'han or the Central and Western Rajpoot States of India, while the earliest known record of \"Rajputana\" as a name for the region is in George Thomas's 1800 memoir Military Memories. John Keay, in his book India: A History, stated that \"Rajputana\" was coined by the British in 1829, John Briggs, translating Ferishta's history of early Islamic India, used the phrase \"Rajpoot (Rajput) princes\" rather than \"Indian princes\".",
+   "word_count": 85,
+   "image_gemini": "21_gemini.webp",
+   "image_qwen": "21_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "When was the first usage of the word Rajasthan?",
+     "gold_answer": "1829",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "In what publication did the name Rajasthan first appear?",
+     "gold_answer": "Annals and Antiquities of Rajast'han or the Central and Western Rajpoot States of India",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What is another name for the Rajasthan region?",
+     "gold_answer": "Rajputana",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In what year did George Thomas write the memoir known as Military Memories?",
+     "gold_answer": "1800",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who wrote the book entitled India: A History?",
+     "gold_answer": "John Keay",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 22,
+   "text_id": "572675c2708984140094c6d5",
+   "title": "Jews",
+   "original_text": "According to the Hebrew Bible narrative, Jewish ancestry is traced back to the Biblical patriarchs such as Abraham, Isaac and Jacob, and the Biblical matriarchs Sarah, Rebecca, Leah, and Rachel, who lived in Canaan around the 18th century BCE. Jacob and his family migrated to Ancient Egypt after being invited to live with Jacob's son Joseph by the Pharaoh himself. The patriarchs' descendants were later enslaved until the Exodus led by Moses, traditionally dated to the 13th century BCE, after which the Israelites conquered Canaan.[citation needed]",
+   "word_count": 86,
+   "image_gemini": "22_gemini.webp",
+   "image_qwen": "22_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Name one person that Jewish ancestry traced back to?",
+     "gold_answer": "Abraham",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Where did Jacob and his family migrate to?",
+     "gold_answer": "Ancient Egypt",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Who led the Exodus?",
+     "gold_answer": "Moses",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who was Jacob's son?",
+     "gold_answer": "Joseph",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who was Joseph's father?",
+     "gold_answer": "Jacob",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 23,
+   "text_id": "572782e0708984140094dfa3",
+   "title": "Textual_criticism",
+   "original_text": "Brooke Foss Westcott (1825–1901) and Fenton J. A. Hort (1828–1892) published an edition of the New Testament in Greek in 1881. They proposed nine critical rules, including a version of Bengel's rule, \"The reading is less likely to be original that shows a disposition to smooth away difficulties.\" They also argued that \"Readings are approved or rejected by reason of the quality, and not the number, of their supporting witnesses\", and that \"The reading is to be preferred that most fitly explains the existence of the others.\"",
+   "word_count": 87,
+   "image_gemini": "23_gemini.webp",
+   "image_qwen": "23_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How many rules were proposed in the 1881 publication of the New Testament in Greek?",
+     "gold_answer": "They proposed nine critical rules",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is Bengel's rule?",
+     "gold_answer": "The reading is less likely to be original that shows a disposition to smooth away difficulties.",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Does ease of reading correlate to accuracy in relation to the original text?",
+     "gold_answer": "\"The reading is to be preferred that most fitly explains the existence of the others.\"",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What is more important for a textual critic: quality or quantity?",
+     "gold_answer": "Readings are approved or rejected by reason of the quality, and not the number, of their supporting witnesses",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What is the criteria needed to include or dismiss a reading when critiquing texts?",
+     "gold_answer": "The reading is to be preferred that most fitly explains the existence of the others.",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 24,
+   "text_id": "572e8e6bc246551400ce4344",
+   "title": "Neptune",
+   "original_text": "In 1821, Alexis Bouvard published astronomical tables of the orbit of Neptune's neighbour Uranus. Subsequent observations revealed substantial deviations from the tables, leading Bouvard to hypothesise that an unknown body was perturbing the orbit through gravitational interaction. In 1843, John Couch Adams began work on the orbit of Uranus using the data he had. Via Cambridge Observatory director James Challis, he requested extra data from Sir George Airy, the Astronomer Royal, who supplied it in February 1844. Adams continued to work in 1845–46 and produced several different estimates of a new planet.",
+   "word_count": 92,
+   "image_gemini": "24_gemini.webp",
+   "image_qwen": "24_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What year did Alexis Bouvard publish relevant astronomical tables?",
+     "gold_answer": "1821",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What did Alexis Bouvard study?",
+     "gold_answer": "the orbit of Neptune's neighbour Uranus",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "When did John Couch Adams begin working on the orbit of Uranus?",
+     "gold_answer": "1843",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who gave John Couch Adams extra data?",
+     "gold_answer": "Sir George Airy",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What did the extra data John Couch Adams received produce?",
+     "gold_answer": "several different estimates of a new planet",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 25,
+   "text_id": "572ed1e0dfa6aa1500f8d409",
+   "title": "Elevator",
+   "original_text": "In hydraulic elevator systems, emergency power will lower the elevators to the lowest landing and open the doors to allow passengers to exit. The doors then close after an adjustable time period and the car remains unusable until reset, usually by cycling the elevator main power switch. Typically, due to the high current draw when starting the pump motor, hydraulic elevators are not run using standard emergency power systems. Buildings like hospitals and nursing homes usually size their emergency generators to accommodate this draw. However, the increasing use of current-limiting motor starters, commonly known as \"soft-start\" contactors, avoid much of this problem, and the current draw of the pump motor is less of a limiting concern.",
+   "word_count": 116,
+   "image_gemini": "25_gemini.webp",
+   "image_qwen": "25_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How do hydraulic elevators work in emergencies?",
+     "gold_answer": "emergency power will lower the elevators to the lowest landing and open the doors to allow passengers to exit",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Once the passengers have exited, what happens?",
+     "gold_answer": "The doors then close after an adjustable time period and the car remains unusable until reset, usually by cycling the elevator main power switch",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "For what reason are hydraulic elevators not powered by the standard emergency system?",
+     "gold_answer": "due to the high current draw when starting the pump motor",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What are current-limiting motor starters referred to as?",
+     "gold_answer": "\"soft-start\" contactors",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 26,
+   "text_id": "57099360ed30961900e8434a",
+   "title": "Beer",
+   "original_text": "After boiling, the hopped wort is now cooled, ready for the yeast. In some breweries, the hopped wort may pass through a hopback, which is a small vat filled with hops, to add aromatic hop flavouring and to act as a filter; but usually the hopped wort is simply cooled for the fermenter, where the yeast is added. During fermentation, the wort becomes beer in a process which requires a week to months depending on the type of yeast and strength of the beer. In addition to producing ethanol, fine particulate matter suspended in the wort settles during fermentation. Once fermentation is complete, the yeast also settles, leaving the beer clear.",
+   "word_count": 111,
+   "image_gemini": "26_gemini.webp",
+   "image_qwen": "26_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "In breweries, what do you call a small vat that is filled with hops?",
+     "gold_answer": "a hopback",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "In what phase of brewing does hopped wort become beer?",
+     "gold_answer": "fermentation",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What substance settles and make beer clear after it ferments?",
+     "gold_answer": "yeast",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "How long does the fermentation process take in brewing beer?",
+     "gold_answer": "a week to months",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What substance is added to hopped wort once it cools after boiling?",
+     "gold_answer": "yeast",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 27,
+   "text_id": "572ea993cb0c0d14000f1416",
+   "title": "Quran",
+   "original_text": "In 1972, in a mosque in the city of Sana'a, Yemen, manuscripts were discovered that were later proved to be the most ancient Quranic text known to exist at the time. The Sana'a manuscripts contain palimpsests, a manuscript page from which the text has been washed off to make the parchment reusable again—a practice which was common in ancient times due to scarcity of writing material. However, the faint washed-off underlying text (scriptio inferior) is still barely visible and believed to be \"pre-Uthmanic\" Quranic content, while the text written on top (scriptio superior) is believed to belong to Uthmanic time. Studies using radiocarbon dating indicate that the parchments are dated to the period before 671 AD with a 99 percent probability.",
+   "word_count": 121,
+   "image_gemini": "27_gemini.webp",
+   "image_qwen": "27_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What is the term for recycled parchments used in ancient manuscripts?",
+     "gold_answer": "palimpsests",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Before which year were the Sana'a manuscripts produced?",
+     "gold_answer": "671 AD",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What version of the Quran was the scriptio superior of the Sana'a manuscripts?",
+     "gold_answer": "Uthmanic",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In which city was evidence of pre-Uthmanic Quranic writing discovered in 1972?",
+     "gold_answer": "Sana'a, Yemen",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 28,
+   "text_id": "57344adb879d6814001ca4b7",
+   "title": "Hunting",
+   "original_text": "From early Christian times, hunting has been forbidden to Roman Catholic Church clerics. Thus the Corpus Juris Canonici (C. ii, X, De cleric. venat.) says, \"We forbid to all servants of God hunting and expeditions through the woods with hounds; and we also forbid them to keep hawks or falcons.\" The Fourth Council of the Lateran, held under Pope Innocent III, decreed (canon xv): \"We interdict hunting or hawking to all clerics.\" The decree of the Council of Trent is worded more mildly: \"Let clerics abstain from illicit hunting and hawking\" (Sess. XXIV, De reform., c. xii), which seems to imply that not all hunting is illicit, and canonists generally make a distinction declaring noisy (clamorosa) hunting unlawful, but not quiet (quieta) hunting.",
+   "word_count": 123,
+   "image_gemini": "28_gemini.webp",
+   "image_qwen": "28_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Who has hunting been forbidden to since early Christian times?",
+     "gold_answer": "Roman Catholic Church clerics",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Who forbid to all servants of God hunting?",
+     "gold_answer": "Corpus Juris Canonici",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What pope was the Fourth Council of the Lateran held under?",
+     "gold_answer": "Pope Innocent III",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What does the decree of the Council of Trent imply?",
+     "gold_answer": "not all hunting is illicit",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What type of hunting is unlawful?",
+     "gold_answer": "clamorosa",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "Who was forbidden to hunt in early Christian time?",
+     "gold_answer": "Roman Catholic Church clerics",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "What forbid hunting in the woods with hounds and keeping hawks or falcons?",
+     "gold_answer": "Corpus Juris Canonici",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.7",
+     "question": "Who held the Fourth Council of the Lateran?",
+     "gold_answer": "Pope Innocent III",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.8",
+     "question": "How is the the decree of the Council of Trent is worded?",
+     "gold_answer": "mildly",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.9",
+     "question": "Who stated quiet hunting is allowed?",
+     "gold_answer": "Council of Trent",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 29,
+   "text_id": "5727762cdd62a815002e9d78",
+   "title": "Late_Middle_Ages",
+   "original_text": "King Matthias Corvinus of Hungary (1458–1490) was one of the most prominent figures of the period, directing campaigns to the West, conquering Bohemia in answer to the Pope's call for help against the Hussite Protestants. Also, in resolving political hostilities with the German emperor Frederick III of Habsburg, he invaded his western domains. Matthew organized the Black Army of mercenary soldiers; it was considered as the biggest army of its time. Using this powerful tool, the Hungarian king led wars against the Turkish armies and stopped the Ottomans during his reign. After the death of Matthew, and with end of the Black Army, the Ottoman Empire grew in strength and Central Europe was defenseless. At the Battle of Mohács, the forces of the Ottoman Empire annihilated the Hungarian army and Louis II of Hungary drowned in the Csele Creek while trying to escape. The leader of the Hungarian army, Pál Tomori, also died in the battle. This is considered to be one of the final battles of Medieval times.",
+   "word_count": 169,
+   "image_gemini": "29_gemini.webp",
+   "image_qwen": "29_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How did Louis II of Hungary die?",
+     "gold_answer": "drowned in the Csele Creek while trying to escape",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "Who was the leader of the Hungarian army at the Battle of Mohács?",
+     "gold_answer": "Pál Tomori",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "In what years did Matthias Corvinus reign as King of Hungary?",
+     "gold_answer": "1458–1490",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who did Matthias defeat to conquer Bohemia?",
+     "gold_answer": "Hussite Protestants",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who opposed the Hungarian army at the Battle of Mohács?",
+     "gold_answer": "the forces of the Ottoman Empire",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 30,
+   "text_id": "56ddf552cffd8e1900b4b526",
+   "title": "Iranian_languages",
+   "original_text": "The other directly attested Old Iranian dialects are the two forms of Avestan, which take their name from their use in the Avesta, the liturgical texts of indigenous Iranian religion that now goes by the name of Zoroastrianism but in the Avesta itself is simply known as vohu daena (later: behdin). The language of the Avesta is subdivided into two dialects, conventionally known as \"Old (or 'Gathic') Avestan\", and \"Younger Avestan\". These terms, which date to the 19th century, are slightly misleading since 'Younger Avestan' is not only much younger than 'Old Avestan', but also from a different geographic region. The Old Avestan dialect is very archaic, and at roughly the same stage of development as Rigvedic Sanskrit. On the other hand, Younger Avestan is at about the same linguistic stage as Old Persian, but by virtue of its use as a sacred language retained its \"old\" characteristics long after the Old Iranian languages had yielded to their Middle Iranian stage. Unlike Old Persian, which has Middle Persian as its known successor, Avestan has no clearly identifiable Middle Iranian stage (the effect of Middle Iranian is indistinguishable from effects due to other causes).",
+   "word_count": 193,
+   "image_gemini": "30_gemini.webp",
+   "image_qwen": "30_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What ancient religious document exists in two versions and includes Old Iranian language?",
+     "gold_answer": "Avestan",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is the contemporary name of the religion which Avesta was part of?",
+     "gold_answer": "Zoroastrianism",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What language shows a level of maturity corresponding to Old Avestan?",
+     "gold_answer": "Rigvedic Sanskrit",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What language shows the same level of development as Younger Avestan?",
+     "gold_answer": "Old Persian",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 31,
+   "text_id": "57292e181d04691400779129",
+   "title": "Planck_constant",
+   "original_text": "Niels Bohr introduced the first quantized model of the atom in 1913, in an attempt to overcome a major shortcoming of Rutherford's classical model. In classical electrodynamics, a charge moving in a circle should radiate electromagnetic radiation. If that charge were to be an electron orbiting a nucleus, the radiation would cause it to lose energy and spiral down into the nucleus. Bohr solved this paradox with explicit reference to Planck's work: an electron in a Bohr atom could only have certain defined energies En",
+   "word_count": 85,
+   "image_gemini": "31_gemini.webp",
+   "image_qwen": "31_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Who introduced the first quantized model of the atom?",
+     "gold_answer": "Niels Bohr",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "When was the first quantized model of the atom introduced?",
+     "gold_answer": "1913",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Why was the first quantized model of the atom introduced?",
+     "gold_answer": "to overcome a major shortcoming of Rutherford's classical model",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In classical electrodynamics, a charge moving in a circle should do what?",
+     "gold_answer": "radiate electromagnetic radiation",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who modeled the atom in 1913, challenging Rutherford's model?",
+     "gold_answer": "Niels Bohr",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "What was predicted to happen to a nucleus-orbiting electron under Rutherford's model?",
+     "gold_answer": "the radiation would cause it to lose energy and spiral down into the nucleus",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "What statement did Bohr make about the electron of an atom, citing Planck's work?",
+     "gold_answer": "an electron in a Bohr atom could only have certain defined energies",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 32,
+   "text_id": "570cf442fed7b91900d45b71",
+   "title": "Digestion",
+   "original_text": "In mammals, preparation for digestion begins with the cephalic phase in which saliva is produced in the mouth and digestive enzymes are produced in the stomach. Mechanical and chemical digestion begin in the mouth where food is chewed, and mixed with saliva to begin enzymatic processing of starches. The stomach continues to break food down mechanically and chemically through churning and mixing with both acids and enzymes. Absorption occurs in the stomach and gastrointestinal tract, and the process finishes with defecation.",
+   "word_count": 81,
+   "image_gemini": "32_gemini.webp",
+   "image_qwen": "32_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What is the firs phase in preparation for digestion  in mammals?",
+     "gold_answer": "the cephalic phase",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is the cephalic phase?",
+     "gold_answer": "saliva is produced in the mouth and digestive enzymes are produced in the stomach",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What digestions begin in the mouth?",
+     "gold_answer": "Mechanical and chemical digestion",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What happens in the stomach after the food is chewed and mixed with starches?",
+     "gold_answer": "The stomach continues to break food down mechanically and chemically through churning and mixing with both acids and enzymes",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Where does absorption occur?",
+     "gold_answer": "in the stomach and gastrointestinal tract",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 33,
+   "text_id": "57098140200fba14003680cb",
+   "title": "Copper",
+   "original_text": "Gram quantities of various copper salts have been taken in suicide attempts and produced acute copper toxicity in humans, possibly due to redox cycling and the generation of reactive oxygen species that damage DNA. Corresponding amounts of copper salts (30 mg/kg) are toxic in animals. A minimum dietary value for healthy growth in rabbits has been reported to be at least 3 ppm in the diet. However, higher concentrations of copper (100 ppm, 200 ppm, or 500 ppm) in the diet of rabbits may favorably influence feed conversion efficiency, growth rates, and carcass dressing percentages.",
+   "word_count": 95,
+   "image_gemini": "33_gemini.webp",
+   "image_qwen": "33_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What are copper salts sometimes used for?",
+     "gold_answer": "suicide attempts",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "When ingested in large amounts what does copper salts produce in humans?",
+     "gold_answer": "copper toxicity",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What is the minimum amount of copper rabbits should have in their diet?",
+     "gold_answer": "3 ppm",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What is a major benefit to rabbits having a higher concentration of copper in their diet?",
+     "gold_answer": "growth rates",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What amount of copper salt is toxic in animals?",
+     "gold_answer": "30 mg/kg",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 34,
+   "text_id": "570e36e30dc6ce1900204e7d",
+   "title": "Uranium",
+   "original_text": "An additional 4.6 billion tonnes of uranium are estimated to be in sea water (Japanese scientists in the 1980s showed that extraction of uranium from sea water using ion exchangers was technically feasible). There have been experiments to extract uranium from sea water, but the yield has been low due to the carbonate present in the water. In 2012, ORNL researchers announced the successful development of a new absorbent material dubbed HiCap which performs surface retention of solid or gas molecules, atoms or ions and also effectively removes toxic metals from water, according to results verified by researchers at Pacific Northwest National Laboratory.",
+   "word_count": 103,
+   "image_gemini": "34_gemini.webp",
+   "image_qwen": "34_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "About how many tonnes of uranium is theorized to be present in the sea?",
+     "gold_answer": "4.6 billion",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What did ORNL call their material that performs surface retention on solid molecules?",
+     "gold_answer": "HiCap",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "The presence of what substance in sea water has resulted in low yields when attempting to extract uranium?",
+     "gold_answer": "carbonate",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Where were ORNL's results verified?",
+     "gold_answer": "Pacific Northwest National Laboratory",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "When was HiCap announced?",
+     "gold_answer": "2012",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 35,
+   "text_id": "57276d92708984140094dd47",
+   "title": "Tuberculosis",
+   "original_text": "TB infection begins when the mycobacteria reach the pulmonary alveoli, where they invade and replicate within endosomes of alveolar macrophages. Macrophages identify the bacterium as foreign and attempt to eliminate it by phagocytosis. During this process, the bacterium is enveloped by the macrophage and stored temporarily in a membrane-bound vesicle called a phagosome. The phagosome then combines with a lysosome to create a phagolysosome. In the phagolysosome, the cell attempts to use reactive oxygen species and acid to kill the bacterium. However, M. tuberculosis has a thick, waxy mycolic acid capsule that protects it from these toxic substances. M. tuberculosis is able to reproduce inside the macrophage and will eventually kill the immune cell.",
+   "word_count": 114,
+   "image_gemini": "35_gemini.webp",
+   "image_qwen": "35_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What specific part of the lungs marks the start of tuberculosis infection?",
+     "gold_answer": "pulmonary alveoli",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What's the process by which macrophages try to get rid of the TB bacterium?",
+     "gold_answer": "phagocytosis",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What do you get when you combine a lysosome and a phagosome?",
+     "gold_answer": "a phagolysosome",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What does the M. tuberculosis bacterium have that protects it from being affected by toxins?",
+     "gold_answer": "mycolic acid capsule",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What vesicle is the temporary holding room for the M. tuberculosis bacterium during phagocytosis?",
+     "gold_answer": "phagosome",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 36,
+   "text_id": "572fc5c004bcaa1900d76ce9",
+   "title": "Bacteria",
+   "original_text": "Unlike in multicellular organisms, increases in cell size (cell growth) and reproduction by cell division are tightly linked in unicellular organisms. Bacteria grow to a fixed size and then reproduce through binary fission, a form of asexual reproduction. Under optimal conditions, bacteria can grow and divide extremely rapidly, and bacterial populations can double as quickly as every 9.8 minutes. In cell division, two identical clone daughter cells are produced. Some bacteria, while still reproducing asexually, form more complex reproductive structures that help disperse the newly formed daughter cells. Examples include fruiting body formation by Myxobacteria and aerial hyphae formation by Streptomyces, or budding. Budding involves a cell forming a protrusion that breaks away and produces a daughter cell.",
+   "word_count": 118,
+   "image_gemini": "36_gemini.webp",
+   "image_qwen": "36_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How size and reproduction are linked in bacteria?",
+     "gold_answer": "Bacteria grow to a fixed size and then reproduce",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "How does bacteria reproduce?",
+     "gold_answer": "through binary fission",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "If the conditions are right how long does it take for bacteria to reproduce?",
+     "gold_answer": "divide extremely rapidly",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What are produced in cell division?",
+     "gold_answer": "two identical clone daughter cells",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 37,
+   "text_id": "5728aa3d2ca10214002da572",
+   "title": "Insect",
+   "original_text": "Humans regard certain insects as pests, and attempt to control them using insecticides and a host of other techniques. Some insects damage crops by feeding on sap, leaves or fruits. A few parasitic species are pathogenic. Some insects perform complex ecological roles; blow-flies, for example, help consume carrion but also spread diseases. Insect pollinators are essential to the life-cycle of many flowering plant species on which most organisms, including humans, are at least partly dependent; without them, the terrestrial portion of the biosphere (including humans) would be devastated. Many other insects are considered ecologically beneficial as predators and a few provide direct economic benefit. Silkworms and bees have been used extensively by humans for the production of silk and honey, respectively. In some cultures, people eat the larvae or adults of certain insects.",
+   "word_count": 133,
+   "image_gemini": "37_gemini.webp",
+   "image_qwen": "37_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "By what method do humans often try to control the spread of insects?",
+     "gold_answer": "insecticides",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What portion of the biosphere would be devastated absent the complex pollination role of insects?",
+     "gold_answer": "terrestrial",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What insect provides a tangible economic benefit via the production of silk?",
+     "gold_answer": "Silkworms",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What insect is known to consume carrion?",
+     "gold_answer": "blow-flies",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Humans consider most insects as what?",
+     "gold_answer": "pests",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "Humans can control insects using what?",
+     "gold_answer": "insecticides",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "Insects have the potential to damage what?",
+     "gold_answer": "crops",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.7",
+     "question": "Insects can damage crops by feeing on sap, fruits, or what?",
+     "gold_answer": "leaves",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.8",
+     "question": "Silkworms are used by humans for producing what?",
+     "gold_answer": "silk",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 38,
+   "text_id": "56f8bf579b226e1400dd0f1b",
+   "title": "Brain",
+   "original_text": "Synapses are the key functional elements of the brain. The essential function of the brain is cell-to-cell communication, and synapses are the points at which communication occurs. The human brain has been estimated to contain approximately 100 trillion synapses; even the brain of a fruit fly contains several million. The functions of these synapses are very diverse: some are excitatory (exciting the target cell); others are inhibitory; others work by activating second messenger systems that change the internal chemistry of their target cells in complex ways. A large number of synapses are dynamically modifiable; that is, they are capable of changing strength in a way that is controlled by the patterns of signals that pass through them. It is widely believed that activity-dependent modification of synapses is the brain's primary mechanism for learning and memory.",
+   "word_count": 135,
+   "image_gemini": "38_gemini.webp",
+   "image_qwen": "38_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How many synapses does the human brain supposedly contain?",
+     "gold_answer": "100 trillion synapses;",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "The fruit fly has a brain that has how many synapses?",
+     "gold_answer": "several million",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "A synapse whose purpose is to excite the target cell are called what?",
+     "gold_answer": "excitatory",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "The primary job of the brain is what?",
+     "gold_answer": "cell-to-cell communication",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 39,
+   "text_id": "572e94b2c246551400ce437c",
+   "title": "Endangered_Species_Act",
+   "original_text": "President Richard Nixon declared current species conservation efforts to be inadequate and called on the 93rd United States Congress to pass comprehensive endangered species legislation. Congress responded with a completely rewritten law, the Endangered Species Act of 1973 which was signed by Nixon on December 28, 1973 (Pub.L. 93–205). It was written by a team of lawyers and scientists, including the first appointed head of the Council on Environmental Quality (CEQ),an outgrowth of NEPA (The \"National Environmental Policy Act of 1969\") Dr. Russell E. Train. Dr. Train was assisted by a core group of staffers, including Dr. Earl Baysinger at EPA (currently Assistant Chief, Office of Endangered Species and International. Activities), Dick Gutting (U.S. Commerce Dept. lawyer, currently joined NOAA the previous year (1972), and Dr. Gerard A. \"Jerry\" Bertrand, a marine biologist (Ph.D, Oregon State University) by training, who had transferred from his post as the Scientific Adviser to the U.S Army Corps of Engineers, office of the Commandant of the Corp. to join the newly formed White House office. The staff, under Dr. Train's leadership, incorporated dozens of new principles and ideas into the landmark legislation; crafting a document that completely changed the direction of environmental conservation in the United States. Dr. Bertrand is credited with writing the most challenged section of the Act, the \"takings\" clause - Section 2.",
+   "word_count": 222,
+   "image_gemini": "39_gemini.webp",
+   "image_qwen": "39_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Who led the team of lawyers and scientists who crafted the Endangered Species Act of 1973?",
+     "gold_answer": "Dr. Russell E. Train",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "The team leader was the first appointed head of what organization?",
+     "gold_answer": "the Council on Environmental Quality",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Who wrote the most challenged section of the Act?",
+     "gold_answer": "Dr. Gerard A. \"Jerry\" Bertrand",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Who was the core staffer to the legislation that worked for the EPA and continued to work in the Office of Endangered Species?",
+     "gold_answer": "Dr. Earl Baysinger",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What Congress called for the drafting of the Endangered Species Act of 1973?",
+     "gold_answer": "the 93rd United States Congress",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 40,
+   "text_id": "56e0733b231d4119001ac16d",
+   "title": "Hydrogen",
+   "original_text": "The universal emergence of atomic hydrogen first occurred during the recombination epoch. At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2. Since hydrogen readily forms covalent compounds with most non-metallic elements, most of the hydrogen on Earth exists in molecular forms such as in the form of water or organic compounds. Hydrogen plays a particularly important role in acid–base reactions as many acid-base reactions involve the exchange of protons between soluble molecules. In ionic compounds, hydrogen can take the form of a negative charge (i.e., anion) when it is known as a hydride, or as a positively charged (i.e., cation) species denoted by the symbol H+. The hydrogen cation is written as though composed of a bare proton, but in reality, hydrogen cations in ionic compounds are always more complex species than that would suggest. As the only neutral atom for which the Schrödinger equation can be solved analytically, study of the energetics and bonding of the hydrogen atom has played a key role in the development of quantum mechanics.",
+   "word_count": 183,
+   "image_gemini": "40_gemini.webp",
+   "image_qwen": "40_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What form can you find hydrogen is on Earth?",
+     "gold_answer": "molecular",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is the molecular make-up of hydrogen?",
+     "gold_answer": "H2",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What are three properties of hydrogen at normal temperature and normal pressure?",
+     "gold_answer": "colorless, odorless, tasteless",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What charge does hydrogen display in ionic compounds when it is called a hydride?",
+     "gold_answer": "negative",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What field of study has hydrogen and it's properties played a key role in development?",
+     "gold_answer": "quantum mechanics",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 41,
+   "text_id": "56e70b3d6fe0821900b8eca2",
+   "title": "Royal_Institute_of_British_Architects",
+   "original_text": "After the grant of the royal charter it had become known as the Royal Institute of British Architects in London, eventually dropping the reference to London in 1892. In 1934, it moved to its current headquarters on Portland Place, with the building being opened by King George V and Queen Mary.",
+   "word_count": 51,
+   "image_gemini": "41_gemini.webp",
+   "image_qwen": "41_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What caused the change of the Institute's name?",
+     "gold_answer": "the grant of the royal charter",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What was removed from the Royal Institute's name?",
+     "gold_answer": "the reference to London",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "When was the mention of London removed from the Royal Institute's name?",
+     "gold_answer": "1892",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Where is the Royal Institute of British Architects located?",
+     "gold_answer": "Portland Place",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who opened the structure in which the Royal Institute is currently housed?",
+     "gold_answer": "King George V and Queen Mary",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 42,
+   "text_id": "56e78f1137bdd419002c4139",
+   "title": "University_of_Kansas",
+   "original_text": "The University of Kansas School of Law was the top law school in the state of Kansas, and 68th nationally, according to the 2014 U.S. News & World Report \"Best Graduate Schools\" edition. Classes are held in Green Hall at W 15th St and Burdick Dr, which is named after former dean James Green.",
+   "word_count": 54,
+   "image_gemini": "42_gemini.webp",
+   "image_qwen": "42_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "In 2014, what issue of U.S. News & World Report provided rankins for law schools?",
+     "gold_answer": "Best Graduate Schools",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What was KU's national law school ranking in 2014?",
+     "gold_answer": "68th",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "The University of Kansas had the highest rated law school in which state?",
+     "gold_answer": "Kansas",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In what building do law students attend classes at KU?",
+     "gold_answer": "Green Hall",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "For whom is Green Hall named?",
+     "gold_answer": "James Green",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 43,
+   "text_id": "57318c60a5e9cc1400cdc033",
+   "title": "University",
+   "original_text": "Their endowment by a prince or monarch and their role in training government officials made these Mediterranean universities similar to Islamic madrasas, although madrasas were generally smaller and individual teachers, rather than the madrasa itself, granted the license or degree. Scholars like Arnold H. Green and Hossein Nasr have argued that starting in the 10th century, some medieval Islamic madrasahs became universities. George Makdisi and others, however, argue that the European university has no parallel in the medieval Islamic world. Other scholars regard the university as uniquely European in origin and characteristics.",
+   "word_count": 92,
+   "image_gemini": "43_gemini.webp",
+   "image_qwen": "43_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What type of university was an Islamic madrasa akin to?",
+     "gold_answer": "Mediterranean universities",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What type of individual funded a Mediterranean university?",
+     "gold_answer": "prince or monarch",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "From where did a degree come in a madrasa?",
+     "gold_answer": "individual teachers",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "In which century did Islamic madrasas start to transform into universities?",
+     "gold_answer": "10th",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 44,
+   "text_id": "572b883cf75d5e190021fe32",
+   "title": "Education",
+   "original_text": "University education includes teaching, research, and social services activities, and it includes both the undergraduate level (sometimes referred to as tertiary education) and the graduate (or postgraduate) level (sometimes referred to as graduate school). Universities are generally composed of several colleges. In the United States, universities can be private and independent like Yale University; public and state-governed like the Pennsylvania State System of Higher Education; or independent but state-funded like the University of Virginia. A number of career specific courses are now available to students through the Internet.",
+   "word_count": 88,
+   "image_gemini": "44_gemini.webp",
+   "image_qwen": "44_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What does University education include?",
+     "gold_answer": "teaching, research, and social services activities,",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What are usually Universities made up of?",
+     "gold_answer": "several colleges",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What type of University would Yale fall under?",
+     "gold_answer": "independent",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 45,
+   "text_id": "5706fbf590286e26004fc7a5",
+   "title": "Immunology",
+   "original_text": "Most graduate immunology schools follow the AAI courses immunology which are offered throughout numerous schools in the United States. For example, in New York State, there are several universities that offer the AAI courses immunology: Albany Medical College, Cornell University, Icahn School of Medicine at Mount Sinai, New York University Langone Medical Center, University at Albany (SUNY), University at Buffalo (SUNY), University of Rochester Medical Center and Upstate Medical University (SUNY). The AAI immunology courses include an Introductory Course and an Advance Course. The Introductory Course is a course that gives students an overview of the basics of immunology.",
+   "word_count": 99,
+   "image_gemini": "45_gemini.webp",
+   "image_qwen": "45_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "Most graduate schools specializing in immunology follow what organization's parameters?",
+     "gold_answer": "AAI courses",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What is the name of the immunology school at Mount Sinai?",
+     "gold_answer": "Icahn School of Medicine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "AAI immunology courses include what two components?",
+     "gold_answer": "Introductory Course and an Advance Course",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What does the introductory AAI immunology course do?",
+     "gold_answer": "gives students an overview of the basics of immunology",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "The Langone Medical Center is part of what college?",
+     "gold_answer": "New York University",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 46,
+   "text_id": "5733974d4776f41900660e17",
+   "title": "University_of_Notre_Dame",
+   "original_text": "Since 2005, Notre Dame has been led by John I. Jenkins, C.S.C., the 17th president of the university. Jenkins took over the position from Malloy on July 1, 2005. In his inaugural address, Jenkins described his goals of making the university a leader in research that recognizes ethics and building the connection between faith and studies. During his tenure, Notre Dame has increased its endowment, enlarged its student body, and undergone many construction projects on campus, including Compton Family Ice Arena, a new architecture hall, additional residence halls, and the Campus Crossroads, a $400m enhancement and expansion of Notre Dame Stadium.",
+   "word_count": 101,
+   "image_gemini": "46_gemini.webp",
+   "image_qwen": "46_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "When did John Jenkins become the president of Notre Dame?",
+     "gold_answer": "2005",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "In terms of the amount of presidents Notre Dame has had, where is John Jenkins on the list?",
+     "gold_answer": "17th",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Who was the Notre Dame president that preceded John Jenkins?",
+     "gold_answer": "Malloy",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "Which arena was constructed under Jenkins at Notre Dame?",
+     "gold_answer": "Compton Family Ice Arena",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "How much money was spent on enhancing Notre Dame Stadium under John Jenkins?",
+     "gold_answer": "$400m",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 47,
+   "text_id": "572faba604bcaa1900d76b9f",
+   "title": "Washington_University_in_St._Louis",
+   "original_text": "In 2013, Washington University received a record 30,117 applications for a freshman class of 1,500 with an acceptance rate of 13.7%. More than 90% of incoming freshmen whose high schools ranked were ranked in the top 10% of their high school classes. In 2006, the university ranked fourth overall and second among private universities in the number of enrolled National Merit Scholar freshmen, according to the National Merit Scholar Corporation's annual report. In 2008, Washington University was ranked #1 for quality of life according to The Princeton Review, among other top rankings. In addition, the Olin Business School's undergraduate program is among the top 4 in the country. The Olin Business School's undergraduate program is also among the country's most competitive, admitting only 14% of applicants in 2007 and ranking #1 in SAT scores with an average composite of 1492 M+CR according to BusinessWeek.",
+   "word_count": 144,
+   "image_gemini": "47_gemini.webp",
+   "image_qwen": "47_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "How many freshman class applications did Washington University receive in 2013?",
+     "gold_answer": "30,117",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What percentage of incoming freshman at Washington University were in the top %10 of their class in 2013?",
+     "gold_answer": "More than 90% of incoming freshmen",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "Where did Washington University rank among private universities for National Merit Scholar freshman in 2006?",
+     "gold_answer": "second among private universities",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "When was Washington University ranked #1 for quality of life?",
+     "gold_answer": "In 2008",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "What percent of applicants were admitted to Olin Business School in 2007?",
+     "gold_answer": "14%",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 48,
+   "text_id": "5727f2323acd2414000df07d",
+   "title": "Northwestern_University",
+   "original_text": "Undergraduate tuition for the 2012/13 school year was $61,240; this includes the basic tuition of $43,380, fees (health $200, etc.), room and board of $13,329 (less if commuting), books and supplies $1,842, personal expenses $1,890, transportation cost of $400. Northwestern awards financial aid solely on the basis of need through loans, work-study, grants, and scholarships. The University processed in excess of $472 million in financial aid for the 2009–2010 academic year. This included $265 million in institutional funds, with the remainder coming from federal and state governments and private organizations and individuals. Northwestern scholarship programs for undergraduate students support needy students from a variety of income and backgrounds. Approximately 44 percent of the June 2010 graduates had received federal and/or private loans for their undergraduate education, graduating with an average debt of $17,200.",
+   "word_count": 133,
+   "image_gemini": "48_gemini.webp",
+   "image_qwen": "48_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What was the total undergrad tuition for the 2012/2013 school year?",
+     "gold_answer": "$61,240",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "On what basis does Northwestern award financial aid?",
+     "gold_answer": "need",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "What percentage of the June 2010 graduates received federal or private loans?",
+     "gold_answer": "Approximately 44",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What was the average debt for the June 2010 graduates?",
+     "gold_answer": "$17,200",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "How much financial aid did Northwestern process for the 2009-2010 academic year?",
+     "gold_answer": "in excess of $472 million",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 49,
+   "text_id": "57318e5ea5e9cc1400cdc075",
+   "title": "University",
+   "original_text": "During the Early Modern period (approximately late 15th century to 1800), the universities of Europe would see a tremendous amount of growth, productivity and innovative research. At the end of the Middle Ages, about 400 years after the first university was founded, there were twenty-nine universities spread throughout Europe. In the 15th century, twenty-eight new ones were created, with another eighteen added between 1500 and 1625. This pace continued until by the end of the 18th century there were approximately 143 universities in Europe and Eastern Europe, with the highest concentrations in the German Empire (34), Italian countries (26), France (25), and Spain (23) – this was close to a 500% increase over the number of universities toward the end of the Middle Ages. This number does not include the numerous universities that disappeared, or institutions that merged with other universities during this time. It should be noted that the identification of a university was not necessarily obvious during the Early Modern period, as the term is applied to a burgeoning number of institutions. In fact, the term \"university\" was not always used to designate a higher education institution. In Mediterranean countries, the term studium generale was still often used, while \"Academy\" was common in Northern European countries.",
+   "word_count": 208,
+   "image_gemini": "49_gemini.webp",
+   "image_qwen": "49_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "What was the time span of the Early Modern period?",
+     "gold_answer": "late 15th century to 1800",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "At the completion of the Middle Ages how long had universities existed?",
+     "gold_answer": "about 400 years",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "How many universities were within Europe at the closure of the middle ages?",
+     "gold_answer": "twenty-nine",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "How many universities were within Europe by the completion of the 18th century?",
+     "gold_answer": "143",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "The German Empire had how many universities?",
+     "gold_answer": "34",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  },
+  {
+   "sample_id": 50,
+   "text_id": "57266d61f1498d1400e8df66",
+   "title": "Brigham_Young_University",
+   "original_text": "In 1903, Brigham Young Academy was dissolved, and was replaced by two institutions: Brigham Young High School, and Brigham Young University. (The BY High School class of 1907 was ultimately responsible for the famous giant \"Y\" that is to this day embedded on a mountain near campus.) The Board elected George H. Brimhall as the new President of BYU. He had not received a high school education until he was forty. Nevertheless, he was an excellent orator and organizer. Under his tenure in 1904 the new Brigham Young University bought 17 acres (69,000 m2) of land from Provo called \"Temple Hill\". After some controversy among locals over BYU's purchase of this property, construction began in 1909 on the first building on the current campus, the Karl G. Maeser Memorial. Brimhall also presided over the University during a brief crisis involving the theory of evolution. The religious nature of the school seemed at the time to collide with this scientific theory. Joseph F. Smith, LDS Church president, settled the question for a time by asking that evolution not be taught at the school. A few have described the school at this time as nothing more than a \"religious seminary\". However, many of its graduates at this time would go on to great success and become well renowned in their fields.",
+   "word_count": 219,
+   "image_gemini": "50_gemini.webp",
+   "image_qwen": "50_qwen.webp",
+   "questions": [
+    {
+     "qid": "hum.gemini.0",
+     "question": "In what year was Brigham Young Academy split into two separate schools?",
+     "gold_answer": "1903",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.1",
+     "question": "What was the name of the land purchased by BYU in 1904?",
+     "gold_answer": "Temple Hill",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.2",
+     "question": "How old was George H. Brimhall when he completed High School?",
+     "gold_answer": "forty",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.3",
+     "question": "What topic was excluded from being taught at BYU?",
+     "gold_answer": "evolution",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.4",
+     "question": "Who was chosen to head BYU?",
+     "gold_answer": "George H. Brimhall",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.5",
+     "question": "In 1903, which two institutions was Brigham Young Univesity replaced with?",
+     "gold_answer": "Brigham Young High School, and Brigham Young University",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.6",
+     "question": "Who we responsible for the giant \"Y\" that is embedded on a mountain near the campus?",
+     "gold_answer": "BY High School class of 1907",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.7",
+     "question": "At what age did BYU's elected president in 1904, George H. Brimhall, receive his high school education?",
+     "gold_answer": "forty",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.8",
+     "question": "What brief crisis rose in the school at the time of Brimhall's presidency that caused the crises' theory to not be taught for a time?",
+     "gold_answer": "the theory of evolution",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    },
+    {
+     "qid": "hum.gemini.9",
+     "question": "What property was George Brimhall responsible for purchasing for the campus?",
+     "gold_answer": "Temple Hill",
+     "source_kind": "human_qa",
+     "source_model": "gemini"
+    }
+   ]
+  }
+ ]
+}
