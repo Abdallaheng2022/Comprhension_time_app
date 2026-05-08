@@ -52,11 +52,29 @@ MODEL_LABEL = {"gem": "Gemini 2.5 Pro", "qwen": "Qwen 2.5-7B", "n/a": "—"}
 MODEL_IMG_KEY = {"gem": "gemini", "qwen": "qwen"}
 
 CONDITIONS = ["passage", "mindmap", "both"]
-CONDITION_LABEL_EN = {
-    "passage": "⟨q, t⟩  Passage only",
-    "mindmap": "⟨q, s⟩  Mind map only",
-    "both":    "⟨q, s+t⟩  Mind map + Passage",
+# Condition labels per language. The ⟨q,t⟩ / ⟨q,s⟩ / ⟨q,s+t⟩ notation is
+# kept verbatim across languages (it's the standard formal notation), but
+# the "Passage / Mind map / Both" parts are translated.
+CONDITION_LABEL = {
+    "en": {
+        "passage": "⟨q, t⟩  Passage only",
+        "mindmap": "⟨q, s⟩  Mind map only",
+        "both":    "⟨q, s+t⟩  Mind map + Passage",
+    },
+    "ar": {
+        "passage": "⟨q, t⟩  النص فقط",
+        "mindmap": "⟨q, s⟩  الخريطة الذهنية فقط",
+        "both":    "⟨q, s+t⟩  الخريطة الذهنية + النص",
+    },
+    "tr": {
+        "passage": "⟨q, t⟩  Yalnızca metin",
+        "mindmap": "⟨q, s⟩  Yalnızca zihin haritası",
+        "both":    "⟨q, s+t⟩  Zihin haritası + Metin",
+    },
 }
+# Backward-compat shim for the previous single-language constant used by
+# the admin dashboard (which is English-only).
+CONDITION_LABEL_EN = CONDITION_LABEL["en"]
 
 DEFAULT_TARGET_TRIALS = 50
 
@@ -228,6 +246,14 @@ class SQLiteStorage:
 
     def __init__(self):
         self.conn = sqlite3.connect(str(LOCAL_DB_PATH), check_same_thread=False)
+        # Make SQLite as resilient as possible while still being a local file:
+        # - WAL = Write-Ahead Log (better concurrent reads, faster commits)
+        # - synchronous=FULL = fsync on every commit (no lost rows on crash)
+        try:
+            self.conn.execute("PRAGMA journal_mode=WAL")
+            self.conn.execute("PRAGMA synchronous=FULL")
+        except Exception:
+            pass
         self.conn.executescript(self.SCHEMA)
         try:
             self.conn.execute("SELECT condition FROM participants LIMIT 1")
@@ -793,8 +819,8 @@ def trial_screen():
     hcols = st.columns([3, 2])
     with hcols[0]:
         st.markdown(f"### {L['app_title']}")
-        st.caption(f"👤 {participant}  •  {LANGS[lang]}  •  "
-                   f"{CONDITION_LABEL_EN.get(cond, cond)}")
+        cond_label = CONDITION_LABEL.get(lang, CONDITION_LABEL["en"]).get(cond, cond)
+        st.caption(f"👤 {participant}  •  {LANGS[lang]}  •  {cond_label}")
     with hcols[1]:
         st.write("")
         st.markdown(
@@ -951,6 +977,59 @@ def admin_screen():
 
     storage = get_storage()
     backend_name = getattr(storage, "backend_name", "?")
+
+    # =====================================================================
+    # STORAGE STATUS BANNER — most important info, shown first
+    # =====================================================================
+    if backend_name == "Google Sheets":
+        st.success(
+            f"✅ **Storage: Google Sheets** — your data is safely stored in the "
+            f"cloud sheet and will NOT be lost on app restart."
+        )
+    else:
+        st.error(
+            "⚠️ **DATA LOSS WARNING — Storage: SQLite (local file)**\n\n"
+            "Your TTA responses are saved to a **local file** that is **wiped every time**:\n"
+            "- The Streamlit Cloud container restarts (≈ every 30 min of inactivity)\n"
+            "- The app is rebooted or redeployed\n"
+            "- The container is migrated to another machine\n\n"
+            "**Action required:** Switch to Google Sheets storage by adding "
+            "`gcp_service_account` and `gsheet_url` to your `.streamlit/secrets.toml` "
+            "(see expander below). Until then, **download a backup CSV/JSON "
+            "after every participant session** (see the 💾 Export & backup tab)."
+        )
+        with st.expander("📖 How to enable Google Sheets storage"):
+            st.markdown(
+                "**Step 1.** Create a Google Cloud project and enable the Google "
+                "Sheets API + Google Drive API.\n\n"
+                "**Step 2.** Create a Service Account → generate a JSON key.\n\n"
+                "**Step 3.** Create a Google Sheet and share it with the service "
+                "account email (Editor permission).\n\n"
+                "**Step 4.** In Streamlit Cloud, go to your app → ⚙ Settings → "
+                "Secrets, and add:\n"
+            )
+            st.code('''admin_password = "..."
+gsheet_url = "https://docs.google.com/spreadsheets/d/YOUR_SHEET_ID/edit"
+
+[gcp_service_account]
+type           = "service_account"
+project_id     = "..."
+private_key_id = "..."
+private_key    = """-----BEGIN PRIVATE KEY-----\\n...\\n-----END PRIVATE KEY-----\\n"""
+client_email   = "...@....iam.gserviceaccount.com"
+client_id      = "..."
+auth_uri       = "https://accounts.google.com/o/oauth2/auth"
+token_uri      = "https://oauth2.googleapis.com/token"
+auth_provider_x509_cert_url = "https://www.googleapis.com/oauth2/v1/certs"
+client_x509_cert_url        = "..."
+''', language="toml")
+            st.markdown(
+                "**Step 5.** Reboot the app. The banner above will turn green.\n\n"
+                "Until then, please use the 💾 Export & backup tab below to download "
+                "data regularly."
+            )
+
+    st.divider()
     st.caption(f"Storage backend: **{backend_name}**")
 
     tab_part, tab_data, tab_metrics, tab_stats, tab_export, tab_help = st.tabs([
@@ -1205,6 +1284,19 @@ all three languages:
         if df is None or len(df) == 0:
             st.info("No data to export yet.")
         else:
+            # Reminder banner inside export tab
+            if backend_name == "Google Sheets":
+                st.info(
+                    "Your data is on Google Sheets — it's already safe in the cloud. "
+                    "Use these downloads for offline analysis or as additional snapshots."
+                )
+            else:
+                st.warning(
+                    "⚠️ **Reminder:** SQLite is the only copy of your data. "
+                    "Download a backup **after every participant session** "
+                    "and save it to your own machine (Google Drive / Dropbox / local disk)."
+                )
+
             st.subheader("Download data")
             stamp = datetime.now().strftime("%Y%m%d_%H%M")
             cols = st.columns(3)
@@ -1244,22 +1336,26 @@ all three languages:
                     width='stretch')
 
             st.divider()
-            st.subheader("Database backup")
-            db_bytes = storage.get_db_bytes()
-            if db_bytes:
-                st.caption(f"Local SQLite snapshot ({len(db_bytes)//1024} KB). "
-                           f"Save this file periodically — Streamlit Cloud "
-                           f"loses local files on restart.")
-                st.download_button(
-                    "⬇️ Download tta_local.db",
-                    db_bytes,
-                    f"tta_backup_{stamp}.db",
-                    "application/x-sqlite3",
-                    width='stretch')
-            else:
+            st.subheader("Raw database backup")
+            if backend_name == "Google Sheets":
                 st.info("Using Google Sheets — data already lives in the "
                         "cloud sheet. Use Google Sheets → File → Make a copy "
                         "for additional backups.")
+            else:
+                db_bytes = storage.get_db_bytes()
+                if db_bytes:
+                    st.caption(
+                        f"⚠️ Local SQLite snapshot ({len(db_bytes)//1024} KB). "
+                        f"This is your **only copy** — Streamlit Cloud loses "
+                        f"local files on container restart. Download regularly!"
+                    )
+                    st.download_button(
+                        f"⬇️ Raw SQLite database file ({len(db_bytes)//1024} KB) — "
+                        f"emergency restore copy",
+                        db_bytes,
+                        f"tta_backup_{stamp}.db",
+                        "application/x-sqlite3",
+                        width='stretch')
 
     with tab_help:
         st.subheader("Study design (matches Jain et al. 2024)")

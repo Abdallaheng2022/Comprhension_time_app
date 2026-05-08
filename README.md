@@ -144,10 +144,16 @@ analyses (mixed-effects models, etc.).
 ## Storage backends
 
 - **Google Sheets** (preferred for production) — durable, multi-user,
-  easy to back up
-- **SQLite** (fallback) — local file `tta_local.db`. **Ephemeral** on
-  Streamlit Cloud. Use the **Export & backup** tab to snapshot it
-  regularly.
+  easy to back up. **Use this for any real participant session.**
+- **SQLite** (local file `tta_local.db`) — fine for testing on your laptop, but **dangerous** on Streamlit Cloud.
+
+> ⚠️ **Streamlit Community Cloud wipes the local file system** on every container
+> restart (≈ every 30 min of inactivity, on every redeploy, and whenever the
+> platform reschedules your app to a new machine). If you rely on SQLite, **all
+> collected TTA responses will eventually be lost**.
+>
+> For any real participant session — even a single one with paid researchers — you
+> **must** configure the Google Sheets backend before sharing the app URL.
 
 ## Limitations to note in your thesis
 
